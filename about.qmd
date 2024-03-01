@@ -1,0 +1,70 @@
+---
+title: "About me"
+image: portret.jpg
+about:
+  template: trestles
+  links:
+    - icon: file-earmark-person
+      text: CV
+      href: https://github.com/mrzeszut/CV/blob/66fe95f68e22bc6f328888ba6ea560b6b2904824/CV-modern---compact.pdf
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/mateusz-rzeszutek-612187152/
+    - icon: github
+      text: Github
+      href: https://github.com/mrzeszut
+    - icon: person
+      text: SCOPUS
+      href: http://www.scopus.com/inward/authorDetails.url?authorID=57193075220&partnerID=MN8TOARS
+    - icon: person
+      text: ResearchGate
+      href: https://www.researchgate.net/profile/Mateusz-Rzeszutek-2
+    - icon: person
+      text: ORCID
+      href: https://orcid.org/0000-0002-0488-4435
+    - icon: person
+      text: Google Scholar
+      href: https://scholar.google.com/citations?user=dcTX9Y0AAAAJ&hl=pl
+    - icon: bicycle
+      text: Strava
+      href: https://www.strava.com/athletes/117075897
+    - icon: bicycle
+      text: garmin
+      href: https://connect.garmin.com/modern/profile/c7836ab7-f995-418c-aadd-520262247e1f
+---
+
+I'm a **Research Assistant** at AGH University. A few words about me:
+
+-   **Science** (air pollution),
+
+-   **Teaching** (Higher education),
+
+-   **Data Analysis** (R), Bicycling (gravel),
+
+-   **Photography** (Reflex cameras) and most important,
+
+-   **family** (forbearing wife and two fantastic daughters).
+
+------------------------------------------------------------------------
+
+**Scientific interests:**
+
+-   Parameterization air quality modeling systems.
+
+-   Analysis of air quality monitoring system data.
+
+-   Air quality monitoring.
+
+-   Calibration algorithms for low-cost particulate matter sensors.
+
+-   Creating tools for environmental engineers in R.
+
+------------------------------------------------------------------------
+
+**Currently**
+
+AGH University, Krakow \| Faculty of Geo-Data Science, Geodesy and Environmental Engineering
+
+**Research Assistant** \| 10/2019 - present
+
+contact: **rzeszut\@agh.edu.pl**
