@@ -1,6 +1,6 @@
 ---
 title: "About me"
-image: portret.jpg
+image: image/portret.jpg
 about:
   template: trestles
   links:

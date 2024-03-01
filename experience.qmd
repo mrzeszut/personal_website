@@ -29,7 +29,7 @@ Supervisor: prof. Marian Mazur
 
 <div>
 
-![](PhDjpg.jpg)
+![](image/PhDjpg.jpg)
 
 </div>
 :::
@@ -51,7 +51,7 @@ Supervisor: Robert Oleniacz, PhD
 
 <div>
 
-![](msc.png)
+![](image/msc.png)
 
 </div>
 :::
@@ -73,7 +73,7 @@ Supervisor: Robert Oleniacz, PhD
 
 <div>
 
-![](eng.png)
+![](image/eng.png)
 
 </div>
 :::
@@ -97,7 +97,7 @@ Faculty of Geo-Data Science, Geodesy and Environmental Engineering\
 
 <div>
 
-![](agh.jpg)
+![](image/agh.jpg)
 
 </div>
 :::
@@ -117,7 +117,7 @@ Faculty of Geo-Data Science, Geodesy and Environmental Engineering\
 
 <div>
 
-![](agh.jpg)
+![](image/agh.jpg)
 
 </div>
 :::
