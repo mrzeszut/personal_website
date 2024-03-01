@@ -1,0 +1,44 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Portfolio",
+    "section": "",
+    "text": "Kurs dla Studentów AGH\n\n\n\n\n\n\n\nnews\n\n\ncourse\n\n\n\n\n\n\n\n\n\n\n\nMar 1, 2024\n\n\nMateusz Rzeszutek\n\n\n\n\n\n\n  \n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nFeb 9, 2024\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "experience.html",
+    "href": "experience.html",
+    "title": "Mateusz Rzeszutek",
+    "section": "",
+    "text": "Education\n\n\n\n\nAGH University of Krakow | AGH Krakow, Poland\nPhD in Environmental Engineering | 2013 - 2019\n\nThesis: “Optimization of input settings of selected air pollution dispersion modeling sys- tems in near-ﬁeld.”\n\nSupervisor: prof. Marian Mazur\n\n\n\n\n\n\n\n\n\n\nAGH University of Krakow | AGH Krakow, Poland\nMSc in Environmental Engineering | 2012 - 2013\n\nThesis: “Air quality impact assessment of Industrial Plant of Thermic Waste Processing Technology in Kracow using mathematical dispersion model CALPUFF.”\n\nSupervisor: Robert Oleniacz, PhD\n\n\n\n\n\n\n\n\n\n\nAGH University of Krakow | AGH Krakow, Poland\nEng. in Environmental Engineering | 2008 - 2012\n\nThesis: “Emitter geometry optimization (in a select range)”\n\nSupervisor: Robert Oleniacz, PhD\n\n\n\n\n\n\n\n\n\nEmployment\n\n\n\n\nAGH University of Krakow | AGH Krakow, Poland\n\nFaculty of Geo-Data Science, Geodesy and Environmental Engineering\n\nAssistant Professor | 10/2019 - present\n\n\n\n\n\n\n\n\n\n\nAGH University of Krakow | AGH Krakow, Poland\n\nFaculty of Geo-Data Science, Geodesy and Environmental Engineering\n\nResearch Assistant | 10/2019 - present\n\n\n\n\n\n\n\n\n\nInternships\n\n\n\n\nMunicipal Cleaning Company in Krakow | MPO, Krakow, Poland\n\nResearch internship | August 2019\n\nDevelopment of assumptions for research work on secondary dust emissions from roads. Recognition of existing street cleaning technologies. Optimization of the street cleaning process with relation to secondary dust pollutant unos.\n\n\n\n\n\n\n\n\n\n\nInstallations Sylwester Kocik | Kocik Tanow/Krakow, Poland\n\nTraineeship | 2012 - 2013\n\n\nPlanning and implementation of sanitary installations (plumbing, heating, ventilation). Preparation of as-built documentation. Preparation of cost estimates. Supervision of technical staff.\n\n\n\n\n\n\n\n\n\n\nSummer school of geoinformation | GEOGORCE, Gorce, Poland\n\nSummer internship | may 2012\n\n\nCourses and workshops in ArcGIS, Remote Sensing, ENVI and TOPR.\n\n\n\n\n\n\n\n\n\n\nEnvironmental Protection Inspectorate in Krakow | WIOS, Krakow, Poland*\n\nTraineeship | april 2011\n\nAir quality monitoring, monitoring methods, maintenance and operation of measuring equipment, validation of measurement results.\n\n\n\n\n\n\n\n\n\n\nEmipro limited liability company | EMIPRO, Krakow, Poland*\n\nTraineeship July 2010\n\nPoland Measurement of air pollution emissions, performance of measurements in industrial plants, performance of determinations in the laboratory, preparation of documentation."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About me",
+    "section": "",
+    "text": "I’m a Research Assistant at AGH University. A few words about me:\n\nScience (air pollution),\nTeaching (Higher education),\nData Analysis (R), Bicycling (gravel),\nPhotography (Reflex cameras) and most important,\nfamily (forbearing wife and two fantastic daughters).\n\n\nScientific interests:\n\nParameterization air quality modeling systems.\nAnalysis of air quality monitoring system data.\nAir quality monitoring.\nCalibration algorithms for low-cost particulate matter sensors.\nCreating tools for environmental engineers in R.\n\n\nCurrently\nAGH University, Krakow | Faculty of Geo-Data Science, Geodesy and Environmental Engineering\nResearch Assistant | 10/2019 - present\ncontact: rzeszut@agh.edu.pl"
+  },
+  {
+    "objectID": "posts/post-with-code/index.html",
+    "href": "posts/post-with-code/index.html",
+    "title": "Post With Code",
+    "section": "",
+    "text": "This is a post with executable code.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "posts/kurs-idub-agh/index.html",
+    "href": "posts/kurs-idub-agh/index.html",
+    "title": "Kurs dla Studentów AGH",
+    "section": "",
+    "text": "Miło mi informować, że została uruchomiona rekrutacja na kurs pt. Zdalne repozytoria i systemy kontroli wersji w projektach uczenia maszynowego.\nLiczba godzin: 60 (realizacja do grudnia 2024), Liczba miejsc: 12*,\nKurs jest darmowy. Liczba miejsc ograniczona.\nFormularz rekrutacji\nZapraszam\nMateusz Rzeszutek\nOpis kursu:\nKurs dedykowany jest dla studentów posiadających podstawową wiedzę i umiejętności z zakresu programowania przynajmniej w jednym języku programowania, matematyki i statystyki. Ma on na celu poszerzenie wiedzy i umiejętności z zakresu efektywnej pracy w grupie osób posiadających różne kompetencje i umiejętności (interdyscyplinarne projekty). W ramach kursu zostanie przekazana podstawowa wiedza z zakresu programowania, statystyki, przetwarzania danych i uczenia maszynowego w celu wyrównania różnic programowych. Zostaną poszerzenie kompetencji studentów posiadających specjalistyczną wiedzę dziedzinową, ale nie posiadających typowych kompetencji z zakresu informatyki i uczenia maszynowego. Po zakończeniu kursu student będzie przygotowany do pracy w zespołach składających się z wykwalifikowanych specjalistów z zakresu analizy danych i programowania przy zastosowaniu zdalnych repozytoriów i systemów kontroli wersji. Ponadto będzie biegle posługiwał się następującymi narzędziami: R, Rstudio, Git, GitKraken, GitHub.\nZakres kursu:\n\nProgramowanie\n\n\nKonfiguracja Środowiska Programistycznego: instalacja; interfejs i systemu pomocy; podstawowe komendy.\nWprowadzenie do programowania w R: obiekty i operacje; przetwarzanie i wizualizacja danych.\n\n\nKomunikacja w projektach uczenia maszynowego\n\n\nProjekt Quarto: tworzenie projektu; formaty projektów; modyfikacje stylu projektu.\n\nSkładnia Markdown w Quarto: formatowanie; nagłówki; bloki kodu; linki; listy; tabele; rysunki; równania; cytowania.\n\n\nSystemy kontroli wersji\n\n\nprowadzenie do systemów kontroli wersji: informacje o kontroli wersji; różnice między Git i GitHub oraz rolami, które spełnią w cyklu projektu ML.\nTworzenie i modyfikowanie projektu w git: tworzenie projektu; śledzenie zmian; naprawianie prostych błędów; odzyskanie usuniętych plików.\nPrzepływ pracy: klonowanie repozytorium; „wypychanie” zmian; umieszczanie zmian w przechowalni; ściąganie zmian od innych użytkowników.\nEdytowanie kodu, rozgałęzienia i łączenia: tworzenie rozgałęzień i przełączanie między nimi; łączenie rozgałęzień; podstawowe techniki rozwiązywania konfliktów scalania.\n\n\nZdalne repozytoria\n\n\nWprowadzenie do zdalnych repozytoriów: rejestracja konta; komunikacja ze społecznością; zarządzanie powiadomieniami; tworzenia oddziałów; wykonywania zatwierdzeń; wprowadzanie zmian w projekcie; rozwidlenia repozytorium i klony; funkcjonalność etykiet; zastosowanie problemów.\nWspółpraca systemów kontroli wersji oraz zdalnych repozytoriów w Rstudio: integracja Git i GitHub z RStudio; osobisty token dostępu; metody zakładania, klonowanie i kopiowania repozytoriów; obsługa Git z poziomu RStudio.\n\n\nUporządkowany przepływ pracy projektach uczenia maszynowego\n\n\nTworzenie modeli.\nPrzygotowanie i przetwarzanie danych za pomocą tzw. recipe.\nOcena modelu z zastosowaniem tzw. resamplingu.\nStrojenie parametrów modelu.\nStudium przypadku modelu predykcyjnego.\n\n\nProjekt uczenia maszynowego z naciskiem na wykształcenie umiejętności zastosowania przekazanej wiedzy z zakresu zdalnych repozytoriów i systemów kontroli wersji oraz komunikacji, współpracy i dyspozycji zadań wewnątrz zespołu.\n\n\nSformułowanie indywidualnych problemów badawczych.\nDyskusja dotycząca metod realizacji projektu.\nPrezentacja z realizacji projektu w kontekście komunikacji, powierzania obowiązków, terminów realizacji i synchronizacji działań.\nPrezentacja końcowa efektów projektu, dyskusja dotycząca napotkanych problemów.\n\n\nRealizacja projektu uczenia maszynowego z naciskiem na komunikację i współpracę z odbiorcą projektu. Cykl spotkań z odbiorcą projektu.\n\n\nDefinicja problemu i sformułowanie efektu, który chce osiągnąć klient.\nAnaliza dostępnych zasobów i możliwości realizacji projektu.\nPrzedstawienie wstępnego rozwiązania – dyskusja, definicja problemów, wstępna ocena możliwości uzyskania zakładanego efektu.\nFinalne przedstawienie uzyskanych efektów realizacji projektu."
+  },
+  {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Welcome To My Blog",
+    "section": "",
+    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  }
+]
