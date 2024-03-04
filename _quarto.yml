@@ -20,7 +20,7 @@ website:
         text: Certificated
       - href: teaching.qmd
         text: Teaching
-      - href: Prizes.qmd
+      - href: prizes.qmd
         text: Prizes
       - href: CV.pdf
         text: CV
@@ -45,5 +45,5 @@ format:
     theme: solar
     css: styles.css
 
-editor: visual
+editor: source
 

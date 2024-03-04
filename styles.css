@@ -1,6 +1,8 @@
 /* css styles */
 
 
+
+
 @media {
   body.fullcontent:not(.floating):not(.docked) .page-columns {
     display:grid;

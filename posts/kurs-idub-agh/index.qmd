@@ -1,11 +1,10 @@
 ---
 title: "Kurs dla Studentów AGH"
-author: "Mateusz Rzeszutek"
-date: "2024-03-01"
 categories: [news, course]
 format: 
   html: 
     toc-location: right
+    toc: true
     toc-depth: 3
     toc-title: ""
 image: "idub_logo_en.jpg"
@@ -13,10 +12,9 @@ image: "idub_logo_en.jpg"
 
 <div style="text-align: justify">
 
-Miło mi informować, że została uruchomiona rekrutacja na kurs pt. 
+Miło mi informować, że została uruchomiona rekrutacja na kurs pt.
 
-**Zdalne repozytoria i systemy kontroli wersji w projektach uczenia maszynowego.**
-\
+**Zdalne repozytoria i systemy kontroli wersji w projektach uczenia maszynowego.**\
 \
 Liczba godzin: 60 (realizacja do grudnia 2024), Liczba miejsc: 12,
 
@@ -24,7 +22,8 @@ Kurs jest darmowy. Liczba miejsc ograniczona.
 
 [Formularz rekrutacji](http://www.cr.agh.edu.pl/kursy/ "IDUB")
 
-Zapraszam 
+Zapraszam
+
 **M**
 
 \
@@ -38,50 +37,50 @@ Kurs dedykowany jest dla studentów posiadających podstawową wiedzę i umieję
 \
 
 ## Zakres kursu:
-\
 
+\
 
 ### 1. Programowanie
 
-***
+------------------------------------------------------------------------
 
 -   Konfiguracja Środowiska Programistycznego: instalacja; interfejs i systemu pomocy; podstawowe komendy.
 -   Wprowadzenie do programowania w R: obiekty i operacje; przetwarzanie i wizualizacja danych.
 
-***
+------------------------------------------------------------------------
 
-## 2. Komunikacja w projektach uczenia maszynowego
+### 2. Komunikacja w projektach uczenia maszynowego
 
-***
+------------------------------------------------------------------------
 
 -   Projekt Quarto: tworzenie projektu; formaty projektów; modyfikacje stylu projektu.\
 -   Składnia Markdown w Quarto: formatowanie; nagłówki; bloki kodu; linki; listy; tabele; rysunki; równania; cytowania.
 
-***
+------------------------------------------------------------------------
 
 ### 3. Systemy kontroli wersji
 
-***
+------------------------------------------------------------------------
 
 -   prowadzenie do systemów kontroli wersji: informacje o kontroli wersji; różnice między Git i GitHub oraz rolami, które spełnią w cyklu projektu ML.
 -   Tworzenie i modyfikowanie projektu w git: tworzenie projektu; śledzenie zmian; naprawianie prostych błędów; odzyskanie usuniętych plików.
 -   Przepływ pracy: klonowanie repozytorium; „wypychanie” zmian; umieszczanie zmian w przechowalni; ściąganie zmian od innych użytkowników.
 -   Edytowanie kodu, rozgałęzienia i łączenia: tworzenie rozgałęzień i przełączanie między nimi; łączenie rozgałęzień; podstawowe techniki rozwiązywania konfliktów scalania.
 
-***
+------------------------------------------------------------------------
 
 ### 4. Zdalne repozytoria
 
-***
+------------------------------------------------------------------------
 
 -   Wprowadzenie do zdalnych repozytoriów: rejestracja konta; komunikacja ze społecznością; zarządzanie powiadomieniami; tworzenia oddziałów; wykonywania zatwierdzeń; wprowadzanie zmian w projekcie; rozwidlenia repozytorium i klony; funkcjonalność etykiet; zastosowanie problemów.
 -   Współpraca systemów kontroli wersji oraz zdalnych repozytoriów w Rstudio: integracja Git i GitHub z RStudio; osobisty token dostępu; metody zakładania, klonowanie i kopiowania repozytoriów; obsługa Git z poziomu RStudio.
 
-***
+------------------------------------------------------------------------
 
-### 5.  Uporządkowany przepływ pracy projektach uczenia maszynowego
+### 5. Uporządkowany przepływ pracy projektach uczenia maszynowego
 
-***
+------------------------------------------------------------------------
 
 -   Tworzenie modeli.
 -   Przygotowanie i przetwarzanie danych za pomocą tzw. recipe.
@@ -89,11 +88,11 @@ Kurs dedykowany jest dla studentów posiadających podstawową wiedzę i umieję
 -   Strojenie parametrów modelu.
 -   Studium przypadku modelu predykcyjnego.
 
-***
+------------------------------------------------------------------------
 
-### 6.  Projekt **CalPM**
+### 6. Projekt **CalPM**
 
-***
+------------------------------------------------------------------------
 
 Projekt uczenia maszynowego z naciskiem na wykształcenie umiejętności zastosowania przekazanej wiedzy z zakresu zdalnych repozytoriów i systemów kontroli wersji oraz komunikacji, współpracy i dyspozycji zadań wewnątrz zespołu.
 
@@ -102,11 +101,11 @@ Projekt uczenia maszynowego z naciskiem na wykształcenie umiejętności zastoso
 -   Prezentacja z realizacji projektu w kontekście komunikacji, powierzania obowiązków, terminów realizacji i synchronizacji działań.
 -   Prezentacja końcowa efektów projektu, dyskusja dotycząca napotkanych problemów.
 
-***
+------------------------------------------------------------------------
 
-### 7.  Projekt **Normalise**
+### 7. Projekt **Normalise**
 
-***
+------------------------------------------------------------------------
 
 Realizacja projektu uczenia maszynowego z naciskiem na komunikację i współpracę z odbiorcą projektu. Cykl spotkań z odbiorcą projektu.
 

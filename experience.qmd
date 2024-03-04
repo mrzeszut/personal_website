@@ -4,9 +4,12 @@ format:
     anchor-sections: true
     link-external-icon: true
     link-external-newwindow: true
+    toc: true
 editor_options: 
   chunk_output_type: console
 ---
+
+<div style="text-align: justify">
 
 ------------------------------------------------------------------------
 
@@ -29,7 +32,7 @@ Supervisor: prof. Marian Mazur
 
 <div>
 
-![](image/PhDjpg.jpg)
+![](image/PhDjpg.jpg){fig-align="center"}
 
 </div>
 :::
@@ -51,7 +54,7 @@ Supervisor: Robert Oleniacz, PhD
 
 <div>
 
-![](image/msc.png)
+![](image/msc.png){fig-align="center"}
 
 </div>
 :::
@@ -73,7 +76,7 @@ Supervisor: Robert Oleniacz, PhD
 
 <div>
 
-![](image/eng.png)
+![](image/eng.png){fig-align="center"}
 
 </div>
 :::
@@ -97,7 +100,7 @@ Faculty of Geo-Data Science, Geodesy and Environmental Engineering\
 
 <div>
 
-![](image/agh.jpg)
+![](image/agh.jpg){fig-align="center"}
 
 </div>
 :::
@@ -117,7 +120,7 @@ Faculty of Geo-Data Science, Geodesy and Environmental Engineering\
 
 <div>
 
-![](image/agh.jpg)
+![](image/agh.jpg){fig-align="center"}
 
 </div>
 :::
