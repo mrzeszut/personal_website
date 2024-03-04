@@ -8,8 +8,6 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - href: CV.pdf
-        text: CV
       - href: experience.qmd
         text: Experience
       - text: Projects
@@ -24,6 +22,9 @@ website:
         text: Teaching
       - href: Prizes.qmd
         text: Prizes
+      - href: CV.pdf
+        text: CV
+
     right:
       - about.qmd
       - icon: linkedin

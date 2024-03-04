@@ -6,7 +6,7 @@ about:
   links:
     - icon: file-earmark-person
       text: CV
-      href: https://github.com/mrzeszut/CV/blob/66fe95f68e22bc6f328888ba6ea560b6b2904824/CV-modern---compact.pdf
+      href: CV.pdf
     - icon: linkedin
       text: LinkedIn
       href: https://www.linkedin.com/in/mateusz-rzeszutek-612187152/
