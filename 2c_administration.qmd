@@ -1,0 +1,20 @@
+---
+format: 
+  html:
+    anchor-sections: true
+    link-external-icon: true
+    link-external-newwindow: true
+    grid: 
+      body-width: 800px
+      sidebar-width: 200px
+      margin-width: 200px
+    toc: true
+    toc-depth: 3
+editor_options: 
+  chunk_output_type: console
+---
+
+<div style="text-align: justify">
+
+## Projects for self-government
+

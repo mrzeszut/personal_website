@@ -1,5 +1,7 @@
 ---
 title: "Kurs dla Studentów AGH"
+author: "Mateusz Rzeszutek, PhD"
+date: "2024-03-04"
 categories: [news, course]
 format: 
   html: 

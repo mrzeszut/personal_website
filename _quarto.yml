@@ -8,19 +8,20 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - href: experience.qmd
+      - href: 1_experience.qmd
         text: Experience
-      - text: Projects
+      - text: Science
         menu: 
-          - scientific.qmd
-          - industry.qmd
-          - self_government_administration.qmd
-          - r_fortran.qmd 
-      - href: certificated.qmd
+          - 2a_scientific.qmd
+          - 2b_industry.qmd
+          - 2c_administration.qmd
+          - 2d_r_fortran.qmd
+          - 2e_conferences.qmd
+      - href: 3_certificated.qmd
         text: Certificated
-      - href: teaching.qmd
+      - href: 4_teaching.qmd
         text: Teaching
-      - href: prizes.qmd
+      - href: 5_prizes.qmd
         text: Prizes
       - href: CV.pdf
         text: CV

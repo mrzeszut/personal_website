@@ -1,0 +1,125 @@
+---
+format: 
+  html:
+    anchor-sections: true
+    link-external-icon: true
+    link-external-newwindow: true
+    toc: true
+editor_options: 
+  chunk_output_type: console
+---
+
+<div style="text-align: justify">
+
+## Courses dedicated
+
+### The best AGH students
+
+Remote Repositories and Version Control Systems in Machine Learning Projects | (60h)
+
+Financing: [AGH University](https://www.agh.edu.pl/en) - [Excellence Initiative – Research University](https://excellence.agh.edu.pl/) | [ Ministry of Science and Higher Education Republic of Poland](https://www.gov.pl/web/nauka)
+
+[Course program](https://mrzeszut.github.io/personal_website/posts/kurs-idub-agh/)
+
+Realization: 2023 - 2025
+
+***
+
+### Other individuals
+
+***
+
+AERMET/AERMOD | RLINE
+
+Financing: against payment
+
+Realization: 2023 - 2025
+
+
+***
+
+## Teaching and training 
+
+I teach classes in 4 fields of study, i.e.: 
+
+ * [Geospatial Computer Science](https://sylabusy.agh.edu.pl/en/1/2/19/1/4/7/232)
+ * [Geoinformatics](https://sylabusy.agh.edu.pl/en/1/2/17/1/4/7/100) 
+ * [Environmental Engineering and Monitoring](https://sylabusy.agh.edu.pl/en/1/2/19/1/4/7/28)
+ * [Engineering and Management of Industrial Processes](https://sylabusy.agh.edu.pl/en/1/2/19/1/5/2/123)
+
+***
+
+Currently, I am conducting classes with: 
+
+ * Scripting data analysis | Geospatial Computer Science | 60h
+ * Time Series | Geospatial Computer Science | 45h
+ * Data Mining | Engineering and Management of Industrial Processes | 30h
+ * Air Protection Engineering | Environmental Engineering and Monitoring | 26h
+ * Environmental monitoring | Environmental Engineering and Monitoring | 4h
+ 
+***
+
+### Geospatial Informatics
+
+***
+ * Scripting data analysis (P)
+ * Time Series (P)
+ * Remote Repositories and Version Control Systems (F)
+ * Creating Functionality of Scripting Languages (F)
+ * Applications of Copernicus Program Data (F)
+ * Air Quality Modeling (F)
+
+***
+
+### Engineering and Management of Industrial Processes
+
+***
+ * Data mining (S)
+
+***
+
+### Environmental Engineering and Monitoring:
+***
+ * Air Protection Engineering (P)
+ * Information Technology (P)
+ * Automation of data processing and visualization (P)
+ * Environmental Monitoring (P)
+ * Atmospheric physics with meteorology and climatology (P)
+ * GIS in Environmental Engineering (P)
+ * Extraordinary Environmental Hazards (F)
+ * R package in environmental data analysis (F)
+ * Machine learning in air protection (F)
+ * Shaping the Areosanitary Condition and Acoustic Climate (S)
+ * Municipal Energy and Energy Auditing (S)
+ * Emission Control and Air Quality Assessment (S)
+ * Low-Carbon Mobility (S)
+ * Air Quality Management (S)
+ * Atmospheric Protection Systems and Techniques (S)
+ * Waste Gas Treatment and Monitoring (S)
+ * Information and Environmental Management (S)
+
+***
+
+### Geoinformation
+***
+ * Scripting data analysis (P)
+ * Fundamentals of Earth Sciences (P)
+ * Environmental data processing (P)
+ * Methods of environmental research and analysis (P)
+ * Emission inventory and estimation methods (F)
+ * Introduction to air pollution dispersion modeling (F)
+
+***
+
+## Other didactic
+
+ * Dissertation Co-Advisor, Doctoral Dissertation: *“Modeling of biogenic volatile organic compounds emissions from forest areas in Poland"* | Adriana Kosowska | AGH University of Krakow | 2017 - 2022
+ * Supervisor of students of Environmental Engineering and Geoinformation
+| 2017 - present
+
+ * Supervisor of the students’ science club [KNIOP](http://www.kniop.agh.edu.pl/) | 2016 - 2019 
+ * Member of two committees for the creation of a new study program *“Geoinformation”* | 2018 - 2020 
+ * Member of two committees for the creation of a new study program *“Geospatial Computer Science”* | 2022 - 2023 
+ * Supervisor of the *Environmental Information Modeling* specialization in the ﬁeld of Geoinformation | 2021-preset 
+
+***
