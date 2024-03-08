@@ -3,10 +3,45 @@ title: "Welcome To My Blog"
 author: "Mateusz Rzeszutek, PhD"
 date: "2024-03-01"
 categories: [news]
+format: 
+  html: 
+    fig-align: center
+    anchor-sections: true
+    link-external-icon: true
+    link-external-newwindow: true
+    grid: 
+      body-width: 550px
+      sidebar-width: 100px
+      margin-width: 100px
+    toc: true
+    toc-depth: 3
+editor_options: 
+  chunk_output_type: console
 ---
 
-Witaj na moim blogu. Na bieżąco będę starał się publikować informacje o efektach mojej pracy. Pozdrawiam serdecznie, M.
+<div style="text-align: justify">
 
-Na początek jedno z moich ulubionych zdjęć.
+Welcome to my blog. I will try to publish information about the effects of my work on an ongoing basis. 
 
-![](motyl.jpg)
+Best regards, 
+
+M
+
+***
+
+First, one of my favorite photos:
+
+![](motyl.jpg){width="400" fig-align="center"}
+
+------------------------------------------------------------------------
+
+My favorite bike route (A fast route, perfect for evening defrosting on the weekend):
+
+::: {.strava-embed-placeholder data-embed-type="activity" data-embed-id="9951623575" data-style="standard"}
+:::
+
+::: {.fig-align="center"}
+```{=html}
+<script src="https://strava-embeds.com/embed.js"</script>
+```
+:::
