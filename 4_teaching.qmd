@@ -13,9 +13,10 @@ editor_options:
 
 ## Courses dedicated
 
-### The best AGH students
 
 Remote Repositories and Version Control Systems in Machine Learning Projects | (60h)
+
+Operation **D14 (IDUB)** - funding of courses for the best AGH students.
 
 Financing: [AGH University](https://www.agh.edu.pl/en) - [Excellence Initiative – Research University](https://excellence.agh.edu.pl/) | [ Ministry of Science and Higher Education Republic of Poland](https://www.gov.pl/web/nauka)
 
@@ -25,16 +26,14 @@ Realization: 2023 - 2025
 
 ***
 
-### Other individuals
 
-***
+Modeling of pollutant dispersion using the AERMET/AERMOD model | 30h
 
-AERMET/AERMOD | RLINE
+The training was conducted for employees [Institute of Precise Mechanics](https://imp_warszawa.bip.gov.pl/) 
 
-Financing: against payment
+Financing: other
 
-Realization: 2023 - 2025
-
+Realization: 2019
 
 ***
 
