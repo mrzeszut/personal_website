@@ -16,149 +16,215 @@ editor_options:
 
 <div style="text-align: justify">
 
-
 ## General
 
 ::: {layout="[ 60, 40]"}
 <div>
 
-### **KRAKOW CITY AWARDS 2014** 
+### **KRAKOW CITY AWARDS 2014**
+
 \
 
-Category: Distinctions for diploma theses.
+Category: Distinctions for diploma theses.\
 \
-\
-*"Air quality impact assessment of Industrial Plant of Thermic Waste Processing Technology in Kracow using mathematical dispersion model CALPUFF."* 
-\
+*"Air quality impact assessment of Industrial Plant of Thermic Waste Processing Technology in Kracow using mathematical dispersion model CALPUFF."*\
 \
 Poland, Krakow, November 6, 2014\
 [Press releases](https://www.bip.krakow.pl/?dok_id=65076)
 
-
 </div>
 
 <div>
 
-![](image/nagroda_krakow.jpg){fig-align="center"}
+![](image/KRK_D_2014.jpg){fig-align="center" width="200"}
+
+![](image/nagroda_krakow.jpg){fig-align="center" width="200"}
 
 </div>
 :::
 
-***
+
+
+------------------------------------------------------------------------
 
 ::: {layout="[ 60, 40]"}
 <div>
 
-### **AGH DIAMMENTS - 15th edition** 
+### **AGH DIAMMENTS - 15th edition**
+
 \
 
-Winner of the 3rd place in the 15th edition of the competition for the best diploma thesis "DIAMENTS AGH", organized by the AGH Student Scientific Society.
+Winner of the 3rd place in the 15th edition of the competition for the best diploma thesis "DIAMENTS AGH", organized by the AGH Student Scientific Society.\
 \
-\
-*"Air quality impact assessment of Industrial Plant of Thermic Waste Processing Technology in Kracow using mathematical dispersion model CALPUFF."* 
-\
+*"Air quality impact assessment of Industrial Plant of Thermic Waste Processing Technology in Kracow using mathematical dispersion model CALPUFF."*\
 \
 Poland, Krakow, March 31, 2014\
 [Press releases](http://www.agh.edu.pl/info/article/diamenty-agh-laureaci-xv-edycji-konkursu/)
 
-
 </div>
 
 <div>
 
-![](image/daimenty_agh.jpg){fig-align="center"}
+![](image/diamend_D_2014.jpg){fig-align="center" width="200"}
+
+![](image/daimenty_agh.jpg){fig-align="center" width="200"}
 
 </div>
+
 :::
 
-***
+------------------------------------------------------------------------
 
 ::: {layout="[ 60, 40]"}
 <div>
 
-### **Sapere Auso Foundation** 
+### **Sapere Auso Foundation**
+
 \
 
-1st prize in the competition for the best master's theses in the field of ecological education and environmental protection, organized by the SAPERE AUSO Foundation.
+1st prize in the competition for the best master's theses in the field of ecological education and environmental protection, organized by the SAPERE AUSO Foundation.\
 \
+*"Air quality impact assessment of Industrial Plant of Thermic Waste Processing Technology in Kracow using mathematical dispersion model CALPUFF."*\
 \
-*"Air quality impact assessment of Industrial Plant of Thermic Waste Processing Technology in Kracow using mathematical dispersion model CALPUFF."* 
-\
-\
-Poland, Krakow, December 9, 2014\
+Poland, Krakow, December 9, 2013\
 [Press releases](http://www.agh.edu.pl/osiagniecia/info/article/nagroda-fundacji-sapere-auso-za-najlepsza-prace-magisterska-z-zakresu-ochrony-srodowiska/)
-
 
 </div>
 
 <div>
 
-![](image/sapere_auso.png){fig-align="center"}
+![](image/sapered_D_2013.jpg){fig-align="center" width="200"}
+
+![](image/sapere_auso.png){fig-align="center" width="200"}
 
 </div>
 :::
 
-***
+------------------------------------------------------------------------
 
 ## AGH Rector's Award
 
-Team 3nd degree Rector's Award for educational achievements
-\
-AGH University of Krakow\ |  2022 
-\
+::: {layout="[ 50, 50]"}
+<div>
 
-***
-Individual 1st degree Rector's Award for scientific achievements
+Team 3nd degree Rector's Award for educational achievements\
 \
-AGH University of Krakow | 2021
-\
+AGH University of Krakow \| 2022\
 
-***
-Individual 3nd degree Rector's Award for scientific achievements
-\
-AGH University of Krakow | 2020 
-\
+</div>
 
-***
-Individual 3nd degree Rector's Award for scientific achievements 
-\
-AGH University of Krakow | 2019
-\
+<div>
 
-***
-Team 3nd degree Rector's Award for organizational achievements 
-\
-AGH University of Krakow | 2019
-\
+![](image/R_202208032024.jpg){fig-align="center" width="200"}
 
-***
-Team 1st degree Rector's Award for educational achievements
-\
-AGH University of Krakow | 2018
-\
+</div>
+:::
 
-***
+------------------------------------------------------------------------
+
+::: {layout="[ 50, 50]"}
+<div>
+
+Individual 1st degree Rector's Award for scientific achievements\
+\
+AGH University of Krakow \| 2021\
+
+</div>
+
+<div>
+
+![](image/R_202108032024.jpg){fig-align="center" width="200"}
+
+</div>
+:::
+
+------------------------------------------------------------------------
+
+::: {layout="[ 50, 50]"}
+<div>
+
+Individual 3nd degree Rector's Award for scientific achievements\
+\
+AGH University of Krakow \| 2020\
+
+</div>
+
+<div>
+
+![](image/R_202008032024.jpg){fig-align="center" width="200"}
+
+</div>
+:::
+
+------------------------------------------------------------------------
+
+::: {layout="[ 50, 50]"}
+<div>
+
+Individual 3nd degree Rector's Award for scientific achievements\
+\
+AGH University of Krakow \| 2019\
+
+</div>
+
+<div>
+
+![](image/R_2019B08032024.jpg){fig-align="center" width="200"}
+
+</div>
+:::
+
+------------------------------------------------------------------------
+
+::: {layout="[ 50, 50]"}
+<div>
+
+Team 3nd degree Rector's Award for organizational achievements\
+\
+AGH University of Krakow \| 2019\
+
+</div>
+
+<div>
+
+![](image/R_2019A08032024.jpg){fig-align="center" width="200"}
+
+</div>
+:::
+
+------------------------------------------------------------------------
+
+::: {layout="[ 50, 50]"}
+<div>
+
+Team 1st degree Rector's Award for educational achievements\
+\
+AGH University of Krakow \| 2019\
+
+</div>
+
+<div>
+
+![](image/R_201808032024.jpg){fig-align="center" width="200"}
+
+</div>
+:::
+
+------------------------------------------------------------------------
 
 ## Sholarship
 
+Basic, pro-quality and scientific scholarship for PhD students awarded annually\
+AGH University of Krakow \| 10/2013 - 10/2018\
 
-Basic, pro-quality and scientific scholarship for PhD students awarded annually 
-\
-AGH University of Krakow | 10/2013 - 10/2018
-\
+------------------------------------------------------------------------
 
-***
+Scholarship for the best environmental engineering students awarded annually\
+Human Capital Operational Program from ESF \| 2012 - 2013\
 
-Scholarship for the best environmental engineering students awarded annually 
-\
-Human Capital Operational Program from ESF | 2012 - 2013
-\
+------------------------------------------------------------------------
 
-***
+Scholarship for the best environmental engineering students awarded annually\
+AGH University of Krakow \| 2008 - 2013\
 
-Scholarship for the best environmental engineering students awarded annually 
-\
-AGH University of Krakow | 2008 - 2013
-\
-
-***
+------------------------------------------------------------------------

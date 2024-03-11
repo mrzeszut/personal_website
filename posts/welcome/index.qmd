@@ -10,9 +10,9 @@ format:
     link-external-icon: true
     link-external-newwindow: true
     grid: 
-      body-width: 550px
+      body-width: 400px
       sidebar-width: 100px
-      margin-width: 100px
+      margin-width:  100px
     toc: true
     toc-depth: 3
 editor_options: 
@@ -21,27 +21,33 @@ editor_options:
 
 <div style="text-align: justify">
 
-Welcome to my blog. I will try to publish information about the effects of my work on an ongoing basis. 
+Welcome to my blog. I will try to publish information about the effects of my work on an ongoing basis.
 
-Best regards, 
+Best regards,
 
 M
 
-***
+------------------------------------------------------------------------
 
-First, one of my favorite photos:
+First, one of my favorite **photos**:
 
-![](motyl.jpg){width="400" fig-align="center"}
+![](motyl.jpg){width="550" fig-align="left"}
 
 ------------------------------------------------------------------------
 
-My favorite bike route (A fast route, perfect for evening defrosting on the weekend):
+My favorite **bike route** (A fast route, perfect for evening defrosting on the weekend):
 
 ::: {.strava-embed-placeholder data-embed-type="activity" data-embed-id="9951623575" data-style="standard"}
 :::
 
-::: {.fig-align="center"}
+::: fig.align="center"
+
 ```{=html}
 <script src="https://strava-embeds.com/embed.js"</script>
 ```
+
 :::
+
+***
+
+

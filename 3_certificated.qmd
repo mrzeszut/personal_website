@@ -13,7 +13,430 @@ editor_options:
 
 
 ## CERTIFICATED
+\
+
+### LATEX
+
+***
+::: {layout="[ 50, 50]"}
+<div>
+
+**Introduction to LaTeX in Overleaf**\
+\
+[FACH Sp. z o.o.](https://www.szkolenia-fach.pl/kontakt/) - organized by the Center of IT Promotion
+\
+\
+Financing: [POWR.03.05.00-00-Z309/18](https://www.power2.agh.edu.pl/) - European Social Fund
+\
+\
+Poland, Krakow | November 18-19, 2023 | 14h
+\
+
+</div>
+
+<div>
+
+![](image/latex.jpg){fig-align="center" width="200"}
+
+</div>
+:::
+
+
+### ANSYS
+***
+
+::: {layout="[ 50, 50]"}
+<div>
+
+**CFD in ANSYS**\
+\
+[MESco Sp. z o.o.](https://mesco.com.pl/) - ANSYS Certified Elite Channel Partner
+\
+\
+Financing: [POWR.03.05.00-00-Z309/18](https://www.power2.agh.edu.pl/) - European Social Fund
+\
+\
+Poland, Krakow | October 23, 2023 | 96h
+\
+
+</div>
+
+<div>
+
+![](image/ansys.jpg){fig-align="center" width="200"}
+
+</div>
+:::
 
 ***
 
-*In development*
+### R
+***
+
+::: {layout="[ 50, 50]"}
+<div>
+
+**Machine Learning Workshops in R**\
+\
+[LabMasters](https://labmasters.pl/)
+\
+\
+Financing: [POWR.03.05.00-00-Z307/17](http://www.cop.agh.edu.pl/power-35/informacje-o-projekcie/) - European Social Fund
+\
+\
+Poland, Krakow | March 29, 2019 | 90h
+\
+
+</div>
+
+<div>
+
+![](image/labmaster_ML.jpg){fig-align="center" width="200"}
+
+</div>
+:::
+
+***
+
+::: {layout="[ 50, 50]"}
+<div>
+
+**Data analysis and visualization in R**\
+\
+[LabMasters](https://labmasters.pl/)
+\
+\
+Financing: [POWR.03.05.00-00-Z307/17](http://www.cop.agh.edu.pl/power-35/informacje-o-projekcie/) - European Social Fund
+\
+\
+Poland, Krakow | October 18, 2018 | 30h
+\
+
+</div>
+
+<div>
+
+![](image/labmaster_AnalizaDanych.jpg){fig-align="center" width="200"}
+
+</div>
+:::
+
+***
+
+::: {layout="[ 50, 50]"}
+<div>
+
+**Fundamentals of mathematical statistics in R**\
+\
+[LabMasters](https://labmasters.pl/)
+\
+\
+Financing: [POWR.03.05.00-00-Z307/17](http://www.cop.agh.edu.pl/power-35/informacje-o-projekcie/) - European Social Fund
+\
+\
+Poland, Krakow | October 18, 2018 | 30h
+\
+
+</div>
+
+<div>
+
+![](image/labmaster_stats.jpg){fig-align="center" width="200"}
+
+</div>
+:::
+
+***
+
+
+### UPeL AGH University
+***
+
+::: {layout="[ 50, 50]"}
+<div>
+
+**Using remote techniques in teaching**\
+\
+[The Centre of e-Learning and Innovative Education at AGH University](https://www.cel.agh.edu.pl/home/)
+\
+\
+Poland, Krakow | June 21, 2016 | 20h
+\
+\
+No. CEL/160621/PO481
+</div>
+
+<div>
+
+![](image/upel.jpg){fig-align="center" width="200"}
+
+</div>
+:::
+
+***
+
+### ZEUS
+***
+
+::: {layout="[ 50, 50]"}
+<div>
+
+**Workshops on the efficient use of the Zeus supercomputer**\
+\
+[Academic Computer Centre Cyfronet AGH](https://www.cyfronet.pl/en/4421,main.html)
+\
+\
+Poland, Krakow | March 23, 2015 | 10h
+\
+
+</div>
+
+<div>
+
+![](image/zeus.jpg){fig-align="center" width="200"}
+
+</div>
+:::
+
+***
+
+### LINUX
+***
+
+::: {layout="[ 50, 50]"}
+<div>
+
+**Linux Basics Workshop**\
+\
+[Academic Computer Centre Cyfronet AGH](https://www.cyfronet.pl/en/4421,main.html)
+\
+\
+Poland, Krakow | March 20, 2015 | 10h
+\
+
+</div>
+
+<div>
+
+![](image/linux.jpg){fig-align="center" width="200"}
+
+</div>
+:::
+
+
+***
+
+### Didactic training
+***
+
+::: {layout="[ 50, 31]"}
+<div>
+
+**Didactic Improvement Course**\
+\
+[AGH University, Faculty of Humanities](https://wh.agh.edu.pl/en/)
+\
+\
+Poland, Krakow | 2014 - 2016 | 90h
+\
+
+</div>
+<div>
+
+![](image/dydactics_1_0001.jpg){fig-align="center" width="200"}
+\
+![](image/dydactics_2.jpg){fig-align="center" width="200"}
+
+</div>
+:::  
+
+
+***
+
+### ArcGIS
+***
+
+::: {layout="[ 50, 50]"}
+<div>
+
+**ArcGIS Desktop - spatial analyses**\
+\
+[Esri Polska Sp. z o.o.](https://www.esri.pl/)
+\
+\
+[Geoinformation summer school **GEOGORCE 2012**](https://geogorce2012.blogspot.com/)
+\
+\
+Poland, Gorce | September 30, 2012 | 8h
+\
+
+</div>
+
+<div>
+
+![](image/esri_basic08032024.jpg){fig-align="center" width="200"}
+
+</div>
+:::  
+
+***
+
+::: {layout="[ 50, 50]"}
+<div>
+
+**Introduction to ArcGIS Desktop**\
+\
+[Esri Polska Sp. z o.o.](https://www.esri.pl/)
+\
+\
+[Geoinformation summer school **GEOGORCE 2012**](https://geogorce2012.blogspot.com/)
+\
+\
+Poland, Gorce | September 27, 2012 | 8h
+\
+
+</div>
+
+<div>
+
+![](image/esri_spatial08032024.jpg){fig-align="center" width="200"}
+
+</div>
+:::  
+
+***
+
+### Quality Management System
+
+::: {layout="[ 50, 50]"}
+<div>
+
+**Auditor:** 
+
+ * **ISO 9001:2009**, 
+ * **ISO14001:2005**, 
+ * **PN-N-18001:2004**,
+ * **OHAS 18001:2007**\
+\
+
+[MDG Doradztwo Gospodarcze sp. z o.o.](https://mdg.com.pl/)
+\
+\
+registry number: MDG-Z-2013/03/51
+\
+\
+Poland, Krakow | March 8, 2013 | 30h
+\
+
+</div>
+
+<div>
+
+![](image/iso08032024.jpg){fig-align="center" width="200"}
+
+</div>
+:::  
+
+***
+
+### Project management
+
+::: {layout="[ 50, 50]"}
+<div>
+
+**Project management basics**\
+\
+[PM sp. z o.o.](https://mdg.com.pl/)
+\
+\
+Poland, Krakow | November 6, 2011 | 8h
+\
+
+</div>
+
+<div>
+
+![](image/grupaPM08032024.jpg){fig-align="center" width="200"}
+
+</div>
+:::  
+
+***
+
+### AutoCad
+***
+
+::: {layout="[ 50, 50]"}
+<div>
+
+**AutoCad 2011 3D models**\
+\
+[CAD Consult](https://cad-akademia.pl/) - authorized training center Autodesk®
+\
+\
+no. certificate: 1935NEUWFO
+\
+\
+Poland, Krakow | April 4, 2011 | 30h
+\
+
+</div>
+
+<div>
+
+![](image/CAD_3d08032024.jpg){fig-align="center" width="200"}
+
+</div>
+:::  
+
+***
+
+::: {layout="[ 50, 50]"}
+<div>
+
+**AutoCad 2011 advanced**\
+\
+[CAD Consult](https://cad-akademia.pl/) - authorized training center Autodesk®
+\
+\
+no. certificate: 1530886753
+\
+\
+Poland, Krakow | October 12, 2010 | 30h
+\
+
+</div>
+
+<div>
+
+![](image/CAD_advence08032024.jpg){fig-align="center" width="200"}
+
+</div>
+:::  
+
+***
+
+::: {layout="[ 50, 50]"}
+<div>
+
+**AutoCad 2011 Beginning**\
+\
+[CAD Consult](https://cad-akademia.pl/) - authorized training center Autodesk®
+\
+\
+no. certificate: 1RRIOWPDCU
+\
+\
+Poland, Krakow | October 5, 2010 | 30h
+\
+
+</div>
+
+<div>
+
+![](image/CAD_basic08032024.jpg){fig-align="center" width="200"}
+
+</div>
+:::  
+
+***
