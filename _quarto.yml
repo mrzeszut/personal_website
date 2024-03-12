@@ -28,18 +28,20 @@ website:
 
     right:
       - about.qmd
-      - icon: linkedin
-        href: https://www.linkedin.com/in/mateusz-rzeszutek-612187152/
-      - icon: github
-        href: https://github.com/mrzeszut
       - icon: activity
         href: http://www.scopus.com/inward/authorDetails.url?authorID=57193075220&partnerID=MN8TOARS
+      - icon: github
+        href: https://github.com/mrzeszut
+      - icon: youtube
+        href: https://www.youtube.com/@MateuszRk
+      - icon: bicycle
+        href: https://www.strava.com/athletes/117075897
+      - icon: linkedin
+        href: https://www.linkedin.com/in/mateusz-rzeszutek-612187152/
       - icon: person
         href: https://www.researchgate.net/profile/Mateusz-Rzeszutek-2
       - icon: journal-bookmark-fill
         href: https://orcid.org/0000-0002-0488-4435
-      - icon: bicycle
-        href: https://www.strava.com/athletes/117075897
         
 format:
   html:

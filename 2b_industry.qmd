@@ -14,6 +14,83 @@ editor_options:
   chunk_output_type: console
 ---
 
-<div style="text-align: justify">
+<div style=text-align: justify>
 
 ## Projects for industry
+
+
+::: {layout="[ 50, 50]"}
+<div>
+**Team member**\
+\
+Monitoring size and dynamics of the deposition pollutants in the forest ecosystem in the plant zone. 
+\
+\
+Report for Zinc smelter in a Silesian town 
+\
+\
+Realization: 2021 - 2022 | Report no. CI-UR/U/7/2020
+\
+\
+Project leader: Prof. dr hab. inż. Marcin Pietrzykowski
+\
+\
+
+</div>
+<div>
+![](image/logo/huta_cynku.png){fig-align="center" width="200"}
+</div>
+:::
+
+***
+\
+
+::: {layout="[ 50, 50]"}
+<div>
+**Team member**\
+\
+Determination of the emission factors of PM~10~ and PM~2.5~ dust suspended in the air from selected streets in Krakow. 
+\
+\
+Report for the Municipal Cleaning Company in Krakow
+\
+\
+Realization: 2016 | Report no. 5.5.150.370
+\
+\
+Project leader: Prof. dr hab. inż. Marian Mazur
+\
+
+</div>
+<div>
+![](image/logo/mpo.jpg){fig-align="center" width="200"}
+</div>
+:::
+
+***
+\
+
+::: {layout="[ 50, 50]"}
+<div>
+**Team member**\
+\
+Preparation of an integrated application permit for SGL Carbon Poland 
+\
+\
+Report for SGL Carbon Poland
+\
+\
+Realization: 2014 | Report no. 5.5.150.213
+\
+\
+Project leader: dr inż. Marek Bogacki
+\
+
+</div>
+<div>
+![](image/logo/sgl_carbon.png){fig-align="center" width="200"}
+</div>
+:::
+
+***
+\

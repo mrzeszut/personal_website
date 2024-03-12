@@ -18,3 +18,85 @@ editor_options:
 
 ## Projects for self-government
 
+::: {layout="[ 50, 50]"}
+<div>
+**Principal Investigator**\
+\
+Expert opinion on the spread of a cloud of pollution from a fire of hazardous waste stored in a hall in Zielona Gora. 
+\
+\
+Report for the Office City of Zielona Gora
+\
+\
+Realization: 09/2023 - 12/2023 | Report no. 25.25.150.682
+\
+\
+Project leader: dr inż. Robert Oleniacz
+\
+\
+
+</div>
+<div>
+![](image/logo/um_zielona.jpg){fig-align="center" width="200"}
+</div>
+:::
+
+***
+
+::: {layout="[ 50, 50]"}
+<div>
+**Leader**\
+\
+Assessment of the impact of repair activities on air quality in Krakow. 
+\
+\
+Report for the Office City of Krakow
+\
+\
+Realization: 07/2019 - 12/2019 | Report no. 25.25.150.561
+\
+\
+co-authors: 
+
+ * Prof. dr hab. inż. Marian Mazur, 
+ * dr hab. inż. Marek Bogacki
+ * dr inż. Adriana Kłosowska, 
+ * dr inż. Robert Oleniacz
+ * dr inż. Tomasz Gorzelnik
+ 
+\
+Materials: [link](https://msip.krakow.pl/aktualnosci/241418,2053,komunikat,jakie_efekty_przyniosly_realizowane_dzialania_naprawcze_na_rzecz_jakosci_powietrza_w_krakowie_.html)
+
+</div>
+<div>
+![](image/logo/krk_logo.jpg){fig-align="center" width="200"}
+</div>
+:::
+
+***
+
+::: {layout="[ 50, 50]"}
+<div>
+**Team member**\
+\
+Assessment of the effects of improving air quality in Krakow by introducing changes in traffic organization on the example of selected street canyons - preliminary studies.
+\
+\
+Report for the Office City of Krakow
+\
+\
+Realization: 07/2019 - 12/2019 | Report no. 25.25.150.571
+\
+\
+Project leader: dr hab. inż. Marek Bogacki
+\
+\
+
+</div>
+<div>
+![](image/logo/krk_logo.jpg){fig-align="center" width="200"}
+</div>
+:::
+
+***
+
