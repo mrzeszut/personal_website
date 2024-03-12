@@ -16,9 +16,222 @@ editor_options:
 
 <div style="text-align: justify">
 
-## Scientific projects
+## Scientific Projects
+\
+
+### National Center for Research and Development
 
 ***
+::: {layout="[ 50, 50]"}
+<div>
+**Team member**\
+\
+Energy Transformation Observatory as an instrument to support the socio-economic development of Poland - [OTE](https://www.energetyka-rozproszona.pl/obserwatorium-transformacji-energetycznej/#Aktualno%C5%9BciOTE)
+\
+\
+Financing: National Center for Research and Development - [NCBR](https://www.gov.pl/web/ncbr-en)
+\
+\
+Realization: 2023 - 2025
+\
+\
+Consortium: 
 
-*In development*
+ * [AGH University](https://www.agh.edu.pl/en/) (leader)
+ * [National Centre for Nuclear Research](https://old.ncbj.gov.pl/en)
+ * [Ministry of Economic Development and Technology](https://www.gov.pl/web/development-technology)
+
+\
+Grant no. GOSPOSTRATEG9/000D/2022
+\
+
+</div>
+<div>
+![](image/logo/ote.png){fig-align="center" width="200"}
+</div>
+:::
+
+***
+\
+
+***
+::: {layout="[ 50, 50]"}
+<div>
+**Team member**\
+\
+Development of distributed energy in energy clusters - [KlastER](https://www.er.agh.edu.pl/projekt-klaster/)
+\
+\
+Financing: National Center for Research and Development - [NCBR](https://www.gov.pl/web/ncbr-en)
+\
+\
+Realization: 2019 - 2022
+\
+\
+Consortium: 
+
+ * [AGH University](https://www.agh.edu.pl/en/) (leader)
+ * [National Centre for Nuclear Research](https://old.ncbj.gov.pl/en)
+ * [Ministry of Economic Development and Technology](https://www.gov.pl/web/development-technology)
+
+\
+Grant no. Gospostrateg1/385085/21/NCBR/19
+\
+
+</div>
+<div>
+![](image/logo/KlastER.svg){fig-align="center" width="200"}
+</div>
+:::
+
+***
+\
+\
+
+
+### Excellence Initiative – Research University
+
+***
+::: {layout="[ 50, 50]"}
+<div>
+**Leader**\
+\
+Habilitation set: *Parameterization and accuracy evaluation of selected modeling systems and applied machine learning methods at local and micro scales to support an air quality management system*
+\
+\
+Financing: [AGH University](https://www.agh.edu.pl/en) - [Excellence Initiative – Research University](https://excellence.agh.edu.pl/) | [ Ministry of Science and Higher Education Republic of Poland](https://www.gov.pl/web/nauka)
+\
+\
+Realization: 2024 - 2025
+\
+\
+Grant application no. 8864 | Operation: D2 
+\
+
+</div>
+<div>
+![](posts/kurs-idub-agh/idub_logo_en.jpg){fig-align="center" width="200"}
+</div>
+:::
+
+***
+\
+
+::: {layout="[ 50, 50]"}
+<div>
+**Team member**\
+\
+Analysis of the fractional and elemental composition of dusts in an urban agglomeration and suburban areas along roads - mobile, stationary and model studies
+\
+\
+Financing: [AGH University](https://www.agh.edu.pl/en) - [Excellence Initiative – Research University](https://excellence.agh.edu.pl/) | [ Ministry of Science and Higher Education Republic of Poland](https://www.gov.pl/web/nauka)
+\
+\
+Realization: 2020 - 2022
+\
+\
+Interdepartmental team *"AGH for environment:"* 
+ 
+ * Ewa Adamiec, prof (leader)
+ * Elżbieta Jarosz-Krzemińska, PhD
+ * Jakub Bartyze, PhD
+ * Mateusz Rzeszutek, PhD
+ * Janusz Zyśk, PhD
+ * Tomasz Pełech-Pilichowski, PhD
+ * Ada Brzoza-Zajęcka, PhD
+
+\
+Grant application no. 67
+\
+
+</div>
+<div>
+![](posts/kurs-idub-agh/idub_logo_en.jpg){fig-align="center" width="200"}
+</div>
+:::
+
+***
+\
+\
+
+### Ministry of Science and Higher Education
+
+***
+::: {layout="[ 50, 50]"}
+<div>
+**Principal Investigator**\
+\
+Assessment of the possibility of improving the prognostic effectiveness of the OSPM model by taking into account secondary dust emissions from roads
+\
+\
+Financing: [AGH University](https://www.agh.edu.pl/en)  | [ Ministry of Science and Higher Education Republic of Poland](https://www.gov.pl/web/nauka)
+\
+\
+Realization: 2017
+\
+\
+Grant no. 15.11.150.277
+\
+
+</div>
+<div>
+![](image/logo/minister_nauka.png){fig-align="center" width="250"}
+</div>
+:::
+
+***
+\
+
+***
+::: {layout="[ 50, 50]"}
+<div>
+**Principal Investigator**\
+\
+Assessment of the implementation of the OSPM model in the air quality management system in Krakow
+\
+\
+Financing: [AGH University](https://www.agh.edu.pl/en)  | [ Ministry of Science and Higher Education Republic of Poland](https://www.gov.pl/web/nauka)
+\
+\
+Realization: 2016
+\
+\
+Grant no. 15.11.150.395
+\
+
+</div>
+<div>
+![](image/logo/minister_nauka.png){fig-align="center" width="250"}
+</div>
+:::
+
+***
+\
+
+***
+::: {layout="[ 50, 50]"}
+<div>
+**Principal Investigator**\
+\
+Modeling of pollutants in the atmospheric air
+\
+\
+Financing: [AGH University](https://www.agh.edu.pl/en)  | [ Ministry of Science and Higher Education Republic of Poland](https://www.gov.pl/web/nauka)
+\
+\
+Realization: 2014
+\
+\
+Grant no. 15.11.150.462
+\
+
+</div>
+<div>
+![](image/logo/minister_nauka.png){fig-align="center" width="250"}
+</div>
+:::
+
+***
+\
+
 

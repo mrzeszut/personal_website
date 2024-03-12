@@ -70,7 +70,7 @@ Poland, Krakow | October 23, 2023 | 96h
 
 ***
 
-### R
+### R for data science
 ***
 
 ::: {layout="[ 50, 50]"}
@@ -175,7 +175,7 @@ No. CEL/160621/PO481
 
 ***
 
-### ZEUS
+### Cluster ZEUS
 ***
 
 ::: {layout="[ 50, 50]"}
@@ -384,7 +384,9 @@ Poland, Krakow | April 4, 2011 | 30h
 
 <div>
 
+::: rotate-img
 ![](image/CAD_3d08032024.jpg){fig-align="center" width="200"}
+:::
 
 </div>
 :::  
@@ -409,7 +411,9 @@ Poland, Krakow | October 12, 2010 | 30h
 
 <div>
 
+::: rotate-img
 ![](image/CAD_advence08032024.jpg){fig-align="center" width="200"}
+:::
 
 </div>
 :::  
@@ -434,7 +438,13 @@ Poland, Krakow | October 5, 2010 | 30h
 
 <div>
 
+::: rotate-img
+
 ![](image/CAD_basic08032024.jpg){fig-align="center" width="200"}
+
+:::
+
+
 
 </div>
 :::  
