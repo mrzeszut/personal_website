@@ -18,3 +18,38 @@ editor_options:
 
 ## R and Fortran projects
 
+### R
+
+***
+
+[giosimport](https://github.com/mrzeszut/giosimport) | R package | Data import package from the air quality monitoring system in Poland.
+
+```{r}
+#| eval: false
+#| echo: true
+
+if (!require(devtools)) {install.packages("devtools"); require(devtools)}
+
+# Instalujesz i wczytujesz
+install_github("mrzeszut/giosimport")
+library(giosimport)
+```
+
+[Materials](https://rpubs.com/rzeszut/giosimport)
+
+***
+[animeTraj](https://github.com/mrzeszut/animeTraj) | Tutorial on creating trajectory animations from the Hysplit model.
+
+***
+
+[gios_api](https://github.com/mrzeszut/gios_api) | Project of automatic data download via API from the Air Quality Portal for Poland.
+
+***
+
+### Fortran
+
+Several data preparation programs for CALMET/CALPUFF (test versions). A simple implementation of the reference methodology for assessing the impact on air quality (Gaussian plume model) was developed, which allows the implementation of data in the form of time series.
+
+
+
+
