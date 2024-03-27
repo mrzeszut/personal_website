@@ -1,0 +1,44 @@
+---
+title: "Dispersion Simulations - Hazardous Waste Fire"
+author: "Mateusz Rzeszutek, PhD"
+date: "2024-03-27"
+categories: [news, air modelling]
+format:
+  html:
+    anchor-sections: true
+    link-external-icon: true
+    link-external-newwindow: true
+    grid: 
+      body-width: 800px
+      sidebar-width: 200px
+      margin-width: 200px
+    toc: true
+    toc-depth: 3
+editor_options: 
+  chunk_output_type: console
+image: "BaP_1h_max_3.jpeg"
+---
+
+<div style="text-align: justify">
+
+***
+
+## PM10
+
+Simulation results of the spread of PM10 suspended dust in the air from a hazardous waste fire. The animation shows the values of 1-hour PM10 concentrations at the ground surface caused by the impact of a hazardous waste fire. Simulations were carried out using the AERMOD model, recommended by the U.S. EPA for regulatory applications.
+
+<img src="PM10.gif" width="600" height="800" />
+
+***
+
+## BaP
+
+Simulation results on the spread of B(a)P in air from a hazardous waste fire. The animation shows the values of 1-hour B(a)P concentrations at the ground surface caused by the impact of a hazardous waste fire. Simulations were carried out using the AERMOD model, recommended by the U.S. EPA for regulatory applications.
+
+<img src="BaP.gif" width="600" height="800" />
+
+***
+
+
+
+

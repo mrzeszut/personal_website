@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Portfolio",
     "section": "",
-    "text": "Fakultety IGP\n\n\n\n\n\n\n\nnews\n\n\nstudent\n\n\n\n\n\n\n\n\n\n\n\nMar 13, 2024\n\n\nMateusz Rzeszutek, PhD\n\n\n\n\n\n\n  \n\n\n\n\nKurs dla Studentów AGH\n\n\n\n\n\n\n\nnews\n\n\ncourse\n\n\n\n\n\n\n\n\n\n\n\nMar 4, 2024\n\n\nMateusz Rzeszutek, PhD\n\n\n\n\n\n\n  \n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nMar 1, 2024\n\n\nMateusz Rzeszutek, PhD\n\n\n\n\n\n\nNo matching items"
+    "text": "Dispersion Simulations - Hazardous Waste Fire\n\n\n\n\n\n\n\nnews\n\n\nair modelling\n\n\n\n\n\n\n\n\n\n\n\nMar 27, 2024\n\n\nMateusz Rzeszutek, PhD\n\n\n\n\n\n\n  \n\n\n\n\nFakultety IGP\n\n\n\n\n\n\n\nnews\n\n\nstudent\n\n\n\n\n\n\n\n\n\n\n\nMar 13, 2024\n\n\nMateusz Rzeszutek, PhD\n\n\n\n\n\n\n  \n\n\n\n\nKurs dla Studentów AGH\n\n\n\n\n\n\n\nnews\n\n\ncourse\n\n\n\n\n\n\n\n\n\n\n\nMar 4, 2024\n\n\nMateusz Rzeszutek, PhD\n\n\n\n\n\n\n  \n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nMar 1, 2024\n\n\nMateusz Rzeszutek, PhD\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "experience.html",
@@ -544,5 +544,26 @@
     "title": "Mateusz Rzeszutek",
     "section": "",
     "text": "giosimport | R package | Data import package from the air quality monitoring system in Poland.\n\nif (!require(devtools)) {install.packages(\"devtools\"); require(devtools)}\n\n# Instalujesz i wczytujesz\ninstall_github(\"mrzeszut/giosimport\")\nlibrary(giosimport)\n\nMaterials\n\nanimeTraj | Tutorial on creating trajectory animations from the Hysplit model.\n\ngios_api | Project of automatic data download via API from the Air Quality Portal for Poland.\n\n\n\n\nSeveral data preparation programs for CALMET/CALPUFF (test versions). A simple implementation of the reference methodology for assessing the impact on air quality (Gaussian plume model) was developed, which allows the implementation of data in the form of time series."
+  },
+  {
+    "objectID": "posts/pozar_odpadow/index.html",
+    "href": "posts/pozar_odpadow/index.html",
+    "title": "Dispersion Simulations - Hazardous Waste Fire",
+    "section": "",
+    "text": "Simulation results of the spread of PM10 suspended dust in the air from a hazardous waste fire. The animation shows the values of 1-hour PM10 concentrations at the ground surface caused by the impact of a hazardous waste fire. Simulations were carried out using the AERMOD model, recommended by the U.S. EPA for regulatory applications.\n\n\n\n\n\nSimulation results on the spread of B(a)P in air from a hazardous waste fire. The animation shows the values of 1-hour B(a)P concentrations at the ground surface caused by the impact of a hazardous waste fire. Simulations were carried out using the AERMOD model, recommended by the U.S. EPA for regulatory applications."
+  },
+  {
+    "objectID": "posts/pozar_odpadow/index.html#pm10",
+    "href": "posts/pozar_odpadow/index.html#pm10",
+    "title": "Dispersion Simulations - Hazardous Waste Fire",
+    "section": "",
+    "text": "Simulation results of the spread of PM10 suspended dust in the air from a hazardous waste fire. The animation shows the values of 1-hour PM10 concentrations at the ground surface caused by the impact of a hazardous waste fire. Simulations were carried out using the AERMOD model, recommended by the U.S. EPA for regulatory applications."
+  },
+  {
+    "objectID": "posts/pozar_odpadow/index.html#bap",
+    "href": "posts/pozar_odpadow/index.html#bap",
+    "title": "Dispersion Simulations - Hazardous Waste Fire",
+    "section": "",
+    "text": "Simulation results on the spread of B(a)P in air from a hazardous waste fire. The animation shows the values of 1-hour B(a)P concentrations at the ground surface caused by the impact of a hazardous waste fire. Simulations were carried out using the AERMOD model, recommended by the U.S. EPA for regulatory applications."
   }
 ]
