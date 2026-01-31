@@ -9,83 +9,113 @@ editor_options:
   chunk_output_type: console
 ---
 
-<div style="text-align: justify">
-
-
+:::::::::::::::::::::::::::::::::::::::::::::::::::::: {style="text-align: justify"}
 ## CERTIFICATED
+
 \
-
-### LATEX
-
-***
-::: {layout="[ 50, 50]"}
-<div>
-
-**Introduction to LaTeX in Overleaf**\
-\
-[FACH Sp. z o.o.](https://www.szkolenia-fach.pl/kontakt/) - organized by the Center of IT Promotion
-\
-\
-Financing: [POWR.03.05.00-00-Z309/18](https://www.power2.agh.edu.pl/) - European Social Fund
-\
-\
-Poland, Krakow | November 18-19, 2023 | 14h
-\
-
-</div>
-
-<div>
-
-![](image/latex.jpg){fig-align="center" width="200"}
-
-</div>
-:::
-
-
-### ANSYS
-***
-
-::: {layout="[ 50, 50]"}
-<div>
-
-**CFD in ANSYS**\
-\
-[MESco Sp. z o.o.](https://mesco.com.pl/) - ANSYS Certified Elite Channel Partner
-\
-\
-Financing: [POWR.03.05.00-00-Z309/18](https://www.power2.agh.edu.pl/) - European Social Fund
-\
-\
-Poland, Krakow | October 23, 2023 | 96h
-\
-
-</div>
-
-<div>
-
-![](image/ansys.jpg){fig-align="center" width="200"}
-
-</div>
-:::
-
-***
 
 ### R for data science
-***
 
-::: {layout="[ 50, 50]"}
+------------------------------------------------------------------------
+
+::::: {layout="[ 50, 50]"}
+<div>
+
+**Interactive web applications in R (Shiny)**\
+\
+[FACH](https://fach-szkolenia.pl/)\
+\
+Financing: [FERS.01.05-IP.08-0033/23-00](https://kompas.agh.edu.pl/) - European Social Fund\
+\
+Poland, Krakow \| 21-26 September 2025 \| 16h\
+
+</div>
+
+<div>
+
+![](image/cert_r_shiny.jpg){fig-align="center" width="200"}
+
+</div>
+:::::
+
+------------------------------------------------------------------------
+
+::::: {layout="[ 50, 50]"}
+<div>
+
+**R development**\
+\
+[FACH](https://fach-szkolenia.pl/)\
+\
+Financing: [FERS.01.05-IP.08-0033/23-00](https://kompas.agh.edu.pl/) - European Social Fund\
+\
+Poland, Krakow \| 18–25 July and 10 September 2025 \| 32h\
+
+</div>
+
+<div>
+
+![](image/cert_r_deep_learning.jpg){fig-align="center" width="200"}
+
+</div>
+:::::
+
+------------------------------------------------------------------------
+
+::::: {layout="[ 50, 50]"}
+<div>
+
+**Deep Learning in R**\
+\
+[FACH](https://fach-szkolenia.pl/)\
+\
+Financing: [FERS.01.05-IP.08-0033/23-00](https://kompas.agh.edu.pl/) - European Social Fund\
+\
+Poland, Krakow \| 24-26 May, 2025 \| 16h\
+
+</div>
+
+<div>
+
+![](image/cert_r_deep_learning.jpg){fig-align="center" width="200"}
+
+</div>
+:::::
+
+------------------------------------------------------------------------
+
+::::: {layout="[ 50, 50]"}
+<div>
+
+**Time series analysis and forecasting in R**\
+\
+[FACH](https://fach-szkolenia.pl/)\
+\
+Financing: [FERS.01.05-IP.08-0033/23-00](https://kompas.agh.edu.pl/) - European Social Fund\
+\
+Poland, Krakow \| 5-12 May, 2025 \| 24h\
+
+</div>
+
+<div>
+
+![](image/cert_r_time_series.jpg){fig-align="center" width="200"}
+
+</div>
+:::::
+
+------------------------------------------------------------------------
+
+::::: {layout="[ 50, 50]"}
 <div>
 
 **Machine Learning Workshops in R**\
 \
-[LabMasters](https://labmasters.pl/)
+[LabMasters](https://labmasters.pl/)\
 \
+Financing: [POWR.03.05.00-00-Z307/17](http://www.cop.agh.edu.pl/power-35/informacje-o-projekcie/) - European Social Fund\
 \
-Financing: [POWR.03.05.00-00-Z307/17](http://www.cop.agh.edu.pl/power-35/informacje-o-projekcie/) - European Social Fund
-\
-\
-Poland, Krakow | March 29, 2019 | 90h
-\
+Poland, Krakow \| March 29, 2019 \| 90h\
 
 </div>
 
@@ -94,23 +124,20 @@ Poland, Krakow | March 29, 2019 | 90h
 ![](image/labmaster_ML.jpg){fig-align="center" width="200"}
 
 </div>
-:::
+:::::
 
-***
+------------------------------------------------------------------------
 
-::: {layout="[ 50, 50]"}
+::::: {layout="[ 50, 50]"}
 <div>
 
 **Data analysis and visualization in R**\
 \
-[LabMasters](https://labmasters.pl/)
+[LabMasters](https://labmasters.pl/)\
 \
+Financing: [POWR.03.05.00-00-Z307/17](http://www.cop.agh.edu.pl/power-35/informacje-o-projekcie/) - European Social Fund\
 \
-Financing: [POWR.03.05.00-00-Z307/17](http://www.cop.agh.edu.pl/power-35/informacje-o-projekcie/) - European Social Fund
-\
-\
-Poland, Krakow | October 18, 2018 | 30h
-\
+Poland, Krakow \| October 18, 2018 \| 30h\
 
 </div>
 
@@ -119,23 +146,20 @@ Poland, Krakow | October 18, 2018 | 30h
 ![](image/labmaster_AnalizaDanych.jpg){fig-align="center" width="200"}
 
 </div>
-:::
+:::::
 
-***
+------------------------------------------------------------------------
 
-::: {layout="[ 50, 50]"}
+::::: {layout="[ 50, 50]"}
 <div>
 
 **Fundamentals of mathematical statistics in R**\
 \
-[LabMasters](https://labmasters.pl/)
+[LabMasters](https://labmasters.pl/)\
 \
+Financing: [POWR.03.05.00-00-Z307/17](http://www.cop.agh.edu.pl/power-35/informacje-o-projekcie/) - European Social Fund\
 \
-Financing: [POWR.03.05.00-00-Z307/17](http://www.cop.agh.edu.pl/power-35/informacje-o-projekcie/) - European Social Fund
-\
-\
-Poland, Krakow | October 18, 2018 | 30h
-\
+Poland, Krakow \| October 18, 2018 \| 30h\
 
 </div>
 
@@ -144,26 +168,75 @@ Poland, Krakow | October 18, 2018 | 30h
 ![](image/labmaster_stats.jpg){fig-align="center" width="200"}
 
 </div>
-:::
+:::::
 
-***
+------------------------------------------------------------------------
 
+### LATEX
+
+------------------------------------------------------------------------
+
+::::: {layout="[ 50, 50]"}
+<div>
+
+**Introduction to LaTeX in Overleaf**\
+\
+[FACH Sp. z o.o.](https://www.szkolenia-fach.pl/kontakt/) - organized by the Center of IT Promotion\
+\
+Financing: [POWR.03.05.00-00-Z309/18](https://www.power2.agh.edu.pl/) - European Social Fund\
+\
+Poland, Krakow \| November 18-19, 2023 \| 14h\
+
+</div>
+
+<div>
+
+![](image/latex.jpg){fig-align="center" width="200"}
+
+</div>
+:::::
+
+### ANSYS
+
+------------------------------------------------------------------------
+
+::::: {layout="[ 50, 50]"}
+<div>
+
+**CFD in ANSYS**\
+\
+[MESco Sp. z o.o.](https://mesco.com.pl/) - ANSYS Certified Elite Channel Partner\
+\
+Financing: [POWR.03.05.00-00-Z309/18](https://www.power2.agh.edu.pl/) - European Social Fund\
+\
+Poland, Krakow \| October 23, 2023 \| 96h\
+
+</div>
+
+<div>
+
+![](image/ansys.jpg){fig-align="center" width="200"}
+
+</div>
+:::::
+
+------------------------------------------------------------------------
 
 ### UPeL AGH University
-***
 
-::: {layout="[ 50, 50]"}
+------------------------------------------------------------------------
+
+::::: {layout="[ 50, 50]"}
 <div>
 
 **Using remote techniques in teaching**\
 \
-[The Centre of e-Learning and Innovative Education at AGH University](https://www.cel.agh.edu.pl/home/)
+[The Centre of e-Learning and Innovative Education at AGH University](https://www.cel.agh.edu.pl/home/)\
 \
-\
-Poland, Krakow | June 21, 2016 | 20h
-\
+Poland, Krakow \| June 21, 2016 \| 20h\
 \
 No. CEL/160621/PO481
+
 </div>
 
 <div>
@@ -171,23 +244,22 @@ No. CEL/160621/PO481
 ![](image/upel.jpg){fig-align="center" width="200"}
 
 </div>
-:::
+:::::
 
-***
+------------------------------------------------------------------------
 
 ### Cluster ZEUS
-***
 
-::: {layout="[ 50, 50]"}
+------------------------------------------------------------------------
+
+::::: {layout="[ 50, 50]"}
 <div>
 
 **Workshops on the efficient use of the Zeus supercomputer**\
 \
-[Academic Computer Centre Cyfronet AGH](https://www.cyfronet.pl/en/4421,main.html)
+[Academic Computer Centre Cyfronet AGH](https://www.cyfronet.pl/en/4421,main.html)\
 \
-\
-Poland, Krakow | March 23, 2015 | 10h
-\
+Poland, Krakow \| March 23, 2015 \| 10h\
 
 </div>
 
@@ -196,23 +268,22 @@ Poland, Krakow | March 23, 2015 | 10h
 ![](image/zeus.jpg){fig-align="center" width="200"}
 
 </div>
-:::
+:::::
 
-***
+------------------------------------------------------------------------
 
 ### LINUX
-***
 
-::: {layout="[ 50, 50]"}
+------------------------------------------------------------------------
+
+::::: {layout="[ 50, 50]"}
 <div>
 
 **Linux Basics Workshop**\
 \
-[Academic Computer Centre Cyfronet AGH](https://www.cyfronet.pl/en/4421,main.html)
+[Academic Computer Centre Cyfronet AGH](https://www.cyfronet.pl/en/4421,main.html)\
 \
-\
-Poland, Krakow | March 20, 2015 | 10h
-\
+Poland, Krakow \| March 20, 2015 \| 10h\
 
 </div>
 
@@ -221,54 +292,49 @@ Poland, Krakow | March 20, 2015 | 10h
 ![](image/linux.jpg){fig-align="center" width="200"}
 
 </div>
-:::
+:::::
 
-
-***
+------------------------------------------------------------------------
 
 ### Didactic training
-***
 
-::: {layout="[ 50, 31]"}
+------------------------------------------------------------------------
+
+::::: {layout="[ 50, 31]"}
 <div>
 
 **Didactic Improvement Course**\
 \
-[AGH University, Faculty of Humanities](https://wh.agh.edu.pl/en/)
+[AGH University, Faculty of Humanities](https://wh.agh.edu.pl/en/)\
 \
-\
-Poland, Krakow | 2014 - 2016 | 90h
-\
+Poland, Krakow \| 2014 - 2016 \| 90h\
 
 </div>
+
 <div>
 
-![](image/dydactics_1_0001.jpg){fig-align="center" width="200"}
-\
+![](image/dydactics_1_0001.jpg){fig-align="center" width="200"}\
 ![](image/dydactics_2.jpg){fig-align="center" width="200"}
 
 </div>
-:::  
+:::::
 
-
-***
+------------------------------------------------------------------------
 
 ### ArcGIS
-***
 
-::: {layout="[ 50, 50]"}
+------------------------------------------------------------------------
+
+::::: {layout="[ 50, 50]"}
 <div>
 
 **ArcGIS Desktop - spatial analyses**\
 \
-[Esri Polska Sp. z o.o.](https://www.esri.pl/)
+[Esri Polska Sp. z o.o.](https://www.esri.pl/)\
 \
+[Geoinformation summer school **GEOGORCE 2012**](https://geogorce2012.blogspot.com/)\
 \
-[Geoinformation summer school **GEOGORCE 2012**](https://geogorce2012.blogspot.com/)
-\
-\
-Poland, Gorce | September 30, 2012 | 8h
-\
+Poland, Gorce \| September 30, 2012 \| 8h\
 
 </div>
 
@@ -277,23 +343,20 @@ Poland, Gorce | September 30, 2012 | 8h
 ![](image/esri_basic08032024.jpg){fig-align="center" width="200"}
 
 </div>
-:::  
+:::::
 
-***
+------------------------------------------------------------------------
 
-::: {layout="[ 50, 50]"}
+::::: {layout="[ 50, 50]"}
 <div>
 
 **Introduction to ArcGIS Desktop**\
 \
-[Esri Polska Sp. z o.o.](https://www.esri.pl/)
+[Esri Polska Sp. z o.o.](https://www.esri.pl/)\
 \
+[Geoinformation summer school **GEOGORCE 2012**](https://geogorce2012.blogspot.com/)\
 \
-[Geoinformation summer school **GEOGORCE 2012**](https://geogorce2012.blogspot.com/)
-\
-\
-Poland, Gorce | September 27, 2012 | 8h
-\
+Poland, Gorce \| September 27, 2012 \| 8h\
 
 </div>
 
@@ -302,31 +365,28 @@ Poland, Gorce | September 27, 2012 | 8h
 ![](image/esri_spatial08032024.jpg){fig-align="center" width="200"}
 
 </div>
-:::  
+:::::
 
-***
+------------------------------------------------------------------------
 
 ### Quality Management System
 
-::: {layout="[ 50, 50]"}
+::::: {layout="[ 50, 50]"}
 <div>
 
-**Auditor:** 
+**Auditor:**
 
- * **ISO 9001:2009**, 
- * **ISO14001:2005**, 
- * **PN-N-18001:2004**,
- * **OHAS 18001:2007**\
-\
+-   **ISO 9001:2009**,
+-   **ISO14001:2005**,
+-   **PN-N-18001:2004**,
+-   **OHAS 18001:2007**\
+    \
 
-[MDG Doradztwo Gospodarcze sp. z o.o.](https://mdg.com.pl/)
+[MDG Doradztwo Gospodarcze sp. z o.o.](https://mdg.com.pl/)\
 \
+registry number: MDG-Z-2013/03/51\
 \
-registry number: MDG-Z-2013/03/51
-\
-\
-Poland, Krakow | March 8, 2013 | 30h
-\
+Poland, Krakow \| March 8, 2013 \| 30h\
 
 </div>
 
@@ -335,22 +395,20 @@ Poland, Krakow | March 8, 2013 | 30h
 ![](image/iso08032024.jpg){fig-align="center" width="200"}
 
 </div>
-:::  
+:::::
 
-***
+------------------------------------------------------------------------
 
 ### Project management
 
-::: {layout="[ 50, 50]"}
+::::: {layout="[ 50, 50]"}
 <div>
 
 **Project management basics**\
 \
-[PM sp. z o.o.](https://mdg.com.pl/)
+[PM sp. z o.o.](https://mdg.com.pl/)\
 \
-\
-Poland, Krakow | November 6, 2011 | 8h
-\
+Poland, Krakow \| November 6, 2011 \| 8h\
 
 </div>
 
@@ -359,26 +417,24 @@ Poland, Krakow | November 6, 2011 | 8h
 ![](image/grupaPM08032024.jpg){fig-align="center" width="200"}
 
 </div>
-:::  
+:::::
 
-***
+------------------------------------------------------------------------
 
 ### AutoCad
-***
 
-::: {layout="[ 50, 50]"}
+------------------------------------------------------------------------
+
+:::::: {layout="[ 50, 50]"}
 <div>
 
 **AutoCad 2011 3D models**\
 \
-[CAD Consult](https://cad-akademia.pl/) - authorized training center Autodesk®
+[CAD Consult](https://cad-akademia.pl/) - authorized training center Autodesk®\
 \
+no. certificate: 1935NEUWFO\
 \
-no. certificate: 1935NEUWFO
-\
-\
-Poland, Krakow | April 4, 2011 | 30h
-\
+Poland, Krakow \| April 4, 2011 \| 30h\
 
 </div>
 
@@ -389,23 +445,20 @@ Poland, Krakow | April 4, 2011 | 30h
 :::
 
 </div>
-:::  
+::::::
 
-***
+------------------------------------------------------------------------
 
-::: {layout="[ 50, 50]"}
+:::::: {layout="[ 50, 50]"}
 <div>
 
 **AutoCad 2011 advanced**\
 \
-[CAD Consult](https://cad-akademia.pl/) - authorized training center Autodesk®
+[CAD Consult](https://cad-akademia.pl/) - authorized training center Autodesk®\
 \
+no. certificate: 1530886753\
 \
-no. certificate: 1530886753
-\
-\
-Poland, Krakow | October 12, 2010 | 30h
-\
+Poland, Krakow \| October 12, 2010 \| 30h\
 
 </div>
 
@@ -416,37 +469,31 @@ Poland, Krakow | October 12, 2010 | 30h
 :::
 
 </div>
-:::  
+::::::
 
-***
+------------------------------------------------------------------------
 
-::: {layout="[ 50, 50]"}
+:::::: {layout="[ 50, 50]"}
 <div>
 
 **AutoCad 2011 Beginning**\
 \
-[CAD Consult](https://cad-akademia.pl/) - authorized training center Autodesk®
+[CAD Consult](https://cad-akademia.pl/) - authorized training center Autodesk®\
 \
+no. certificate: 1RRIOWPDCU\
 \
-no. certificate: 1RRIOWPDCU
-\
-\
-Poland, Krakow | October 5, 2010 | 30h
-\
+Poland, Krakow \| October 5, 2010 \| 30h\
 
 </div>
 
 <div>
 
 ::: rotate-img
-
 ![](image/CAD_basic08032024.jpg){fig-align="center" width="200"}
-
 :::
 
-
-
 </div>
-:::  
+::::::
 
-***
+------------------------------------------------------------------------
+::::::::::::::::::::::::::::::::::::::::::::::::::::::

@@ -35,31 +35,22 @@ about:
 
 I'm a **Research Assistant** at AGH University. A few words about me:
 
--   **Science** (air pollution),
-
--   **Teaching** (Higher education),
-
--   **Data Analysis** (R),
-
--   **Bicycling** (gravel),
-
--   **Photography** (Reflex cameras) and most important,
-
--   **family** (forbearing wife and two fantastic daughters).
+- **Science:** air pollution, data science  
+- **Teaching:** higher education  
+- **Data Analysis:** R  
+- **Bicycling:** gravel  
+- **Photography:** reflex cameras  
+- **Family:** supportive wife, two fantastic daughters, and one son
 
 ------------------------------------------------------------------------
 
 **Scientific interests:**
 
--   Parameterization air quality modeling systems.
-
--   Analysis of air quality monitoring system data.
-
--   Air quality monitoring.
-
--   Calibration algorithms for low-cost particulate matter sensors.
-
--   Creating tools for environmental engineers in R.
+- Parameterization of air quality modeling systems  
+- Analysis of air quality monitoring data  
+- Air quality monitoring  
+- Calibration algorithms for low-cost particulate matter sensors  
+- Development of tools for environmental engineers in R
 
 ------------------------------------------------------------------------
 

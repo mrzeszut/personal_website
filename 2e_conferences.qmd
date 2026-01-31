@@ -23,89 +23,12 @@ editor_options:
 
 ***
 
-2014 | Poland | Krakow
+2024 | Poland | Zakopane
 
-IV International Conference of Science and Technology **INFRAEKO** – Infrastructure and Environment 
+XIII Scientific Conference Air Protection in Theory and Practice
 
-Presentation: *„The example of assessment of ambient air pollution changes resulting from the thermomodernization of single-family buildings”*
+Presentation: *„Callibration algorithms for optical methods measurements of particulate matter concentration“*
 
-***
-
-2014 | Poland | Zakopane
-
-10th Scientific Conference Air Protection in Theory and Practice
-
-Presentation: *„Assessment of the impact of computational grid on the results of modeling pollutant spreading in the air”*
-
-***
-
-2014 | Poland | Krakow 
-
-International IX Krakow Conference of young scientists 
-
-Presentation: *“Impact assessment of road transport on air in the selected area of Krakow”*
-
-***
-
-2015 | Poland | Zakopane 
-
-International X Krakow conference of young scientists 
-
-Presentation: *„Model of averaging traffic flow variability profiles based on the example of selected streets in krakow”*
-
-***
-
-2015 | Poland | Jarnoltowek,
-
-The 24th annual Central European Conference **ECOpole’15**,  
-
-Poster pt.: *„Chemical transformation modules for secondary inorganic aerosol formation in the CALPUFF model and their importance in the air quality impact assessment”*
-
-***
-
-2016 | Poland | Krakow 
-
-International Conference on the Sustainable Energy and Environment Development **SEED**. 
-Poster pt.: *„Impact of a coal-fired CHP plant without flue gas desulfurization (FGD) system on secondary inorganic aerosol formation in air”*
-
-
-2016 | Poland | Krakow
-
-V International Conference of Science and Technology **INFRAEKO:** Modern Cities. Infrastructure and Environment
-
-Presentation: *„Modelling of air pollutant dispersion in the street canyon”*
-
-***
-
-2017 | Poland | Wrocław 
-
-**ASEE17**: International conference on Advances in energy Systems and Environmental Engineering: clean energy, clean water, clean air 
-
-Presentation: *„Assessment of the AERMOD dispersion model over complex terrain with different types of meteorological data: Tracy Power Plant experiment”*
-
-***
-
-2017 | Poland | Czestochowa 
-
-International conference ASSM2017. 
-
-Presentation: *„Evaluation of opportunities for improvement of OSPM model performance by considering secondary dust emissions from roads”*
-
-***
-
-2019 | Poland | Krakow
-
-3rd International Conference on the Sustainable Energy and Environmental Development **SEED2019** 
-
-Poster: *„Assessment of the AERMOD dispersion model in complex terrain with different types of digital elevation data”*
-
-***
-
-2022 | Poland | Zakopane 
-
-10th Scientific Conference Air Protection in Theory and Practice
-
-Presentation: *„Particle matter trends (PM10 and PM2.5) from road transport in Krakow: A street canyon case study av. Krasinski”*
 
 ***
 
@@ -117,71 +40,110 @@ Presentation: *„Using meteorological normalization to identify the effects of 
 
 ***
 
+2022 | Poland | Zakopane
+
+10th Scientific Conference Air Protection in Theory and Practice
+
+Presentation: *„Particle matter trends (PM10 and PM2.5) from road transport in Krakow: A street canyon case study av. Krasinski”*
+
+***
+
+2019 | Poland | Krakow
+
+3rd International Conference on the Sustainable Energy and Environmental Development **SEED2019**
+
+Poster: *„Assessment of the AERMOD dispersion model in complex terrain with different types of digital elevation data”*
+
+***
+
+2017 | Poland | Czestochowa
+
+International conference ASSM2017.
+
+Presentation: *„Evaluation of opportunities for improvement of OSPM model performance by considering secondary dust emissions from roads”*
+
+***
+
+2017 | Poland | Wrocław
+
+**ASEE17**: International conference on Advances in energy Systems and Environmental Engineering: clean energy, clean water, clean air
+
+Presentation: *„Assessment of the AERMOD dispersion model over complex terrain with different types of meteorological data: Tracy Power Plant experiment”*
+
+***
+
+2016 | Poland | Krakow
+
+V International Conference of Science and Technology **INFRAEKO:** Modern Cities. Infrastructure and Environment
+
+Presentation: *„Modelling of air pollutant dispersion in the street canyon”*
+
+***
+
+2016 | Poland | Krakow
+
+International Conference on the Sustainable Energy and Environment Development **SEED**.
+
+Poster pt.: *„Impact of a coal-fired CHP plant without flue gas desulfurization (FGD) system on secondary inorganic aerosol formation in air”*
+
+***
+
+2015 | Poland | Jarnoltowek,
+
+The 24th annual Central European Conference **ECOpole’15**,  
+
+Poster pt.: *„Chemical transformation modules for secondary inorganic aerosol formation in the CALPUFF model and their importance in the air quality impact assessment”*
+
+***
+
+2015 | Poland | Zakopane
+
+International X Krakow conference of young scientists 
+
+Presentation: *„Model of averaging traffic flow variability profiles based on the example of selected streets in krakow”*
+
+***
+
+2014 | Poland | Krakow 
+
+International IX Krakow Conference of young scientists 
+
+Presentation: *“Impact assessment of road transport on air in the selected area of Krakow”*
+
+***
+
+2014 | Poland | Zakopane
+
+10th Scientific Conference Air Protection in Theory and Practice
+
+Presentation: *„Assessment of the impact of computational grid on the results of modeling pollutant spreading in the air”*
+
+***
+
+2014 | Poland | Krakow
+
+IV International Conference of Science and Technology **INFRAEKO** – Infrastructure and Environment 
+
+Presentation: *„The example of assessment of ambient air pollution changes resulting from the thermomodernization of single-family buildings”*
+
+***
+
+
 ### National Conferences [PL]
 
 ***
 
-2013 | Polska | Warszawa 
+2025 | Polska | Warszawa 
 
-XI Konferencja Naukowa *„Dla Miasta i Środowiska - Problemy unieszkodliwiania odpadów”*
+Konferencja „Krajowy Program Współpracy COPERNICUS – Jakość Powietrza i Klimat”
 
-Prezentacja pt. *„Zakład Termicznego Przekształcania Odpadów Komunalnych w Krakowie – założenia projektowe i stan realizacji budowy”*
-
-***
-
-2013 | Polska | Kraków  
-
-Ogólnopolska Konferencja *„Darmowe dane i open source w badaniach środowiska”* 
-
-Prezentacja pt. *„Przygotowanie danych przestrzennych na potrzeby modelowania rozprzestrzeniania się zanieczyszczeń w powietrzu z wykorzystaniem modelu CALMET/CALPUFF”*
+Prezentacja pt.: *„Ocena dokładności wybranych systemów modelowania jakości powietrza w skali lokalnej: Trzy eksperymenty terenowe w obszarach o zróżnicowanej rzeźbie terenu"*
 
 ***
 
-2014 | Polska | Karpacz 
+2024 | Polska | Kraków 
 
-XII Konferencja Naukowa **POL-EMIS:** *„Ochrona Powietrza Atmosferycznego”* 
-
-Prezentacja pt. *„Ocena wpływu nowo budowanej spalarni odpadów komunalnych w Krakowie na jakość powietrza z wykorzystaniem modelu CALMET/CALPUFF”*
-
-***
-
-2014 | Polska | Kraków  
-
-Konferencja młodych naukowców "(VII edycja): *„Wpływ młodych naukowców na osiągnięcia polskiej nauki*, 
-
-Prezentacja pt. *„Zastosowanie systemu informacji przestrzennej w modelowaniu dyspersji zanieczyszczeń w powietrzu atmosferycznym”*
-
-***
-
-2015 | Polska | Katowice 
-
-Konferencja naukowa: *„Nauka i biznes, czyli dwa przenikające się światy”*,  
-
-Prezentacja pt. *„Obliczenia rozprzestrzeniania się pyłu drobnego w powietrzu atmosferycznym z wykorzystaniem dyfuzyjnych modeli Gaussa”*
-
-***
-
-2015 | Polska | Wieliczka
-
-IX Krakowskie Sympozjum Naukowo Techniczne: **KraSyNT**, 
-
-Prezentacja pt.: *„Wpływ dużych instalacji energetycznego spalania paliw na jakość powietrza w Krakowie”*
-
-***
-
-2016 | Polska | Szklarska Poręba 
-
-XIII Konferencja Naukowa **POL-EMIS** *„Powietrze Atmosferyczne Jakość – Zagrożenia-Ochrona"* 
-
-Prezentacja pt.: *„Zastosowanie systemu modelowania AERMOD w obliczeniach dyspersji zanieczyszczeń powietrza w warunkach polskich”*
-
-***
-
-2016 | Polska | Sopot 
-
-Konferncja naukowa **TranSopot 2016**: *„Wyzwania rozwoju transportu w XXI wieku"* 
-
-Prezentacja pt.: *„Ocena jakości powietrza w pobliżu tras komunikacyjnych dla wybranych aglomeracji miejskich Polski”*
+Prezentacja pt.: *„Koncepcja systemu analitycznego monitoringu efektywności procesu transformacji energetycznej ze względu na stan klimatu i środowiska"*
 
 ***
 
@@ -193,7 +155,69 @@ Prezentacja pt.: *„Ocena modelu dyspersji zanieczyszczeń powietrza OSPM: stud
 
 ***
 
+2016 | Polska | Sopot 
 
+Konferncja naukowa **TranSopot 2016**: *„Wyzwania rozwoju transportu w XXI wieku"* 
+
+Prezentacja pt.: *„Ocena jakości powietrza w pobliżu tras komunikacyjnych dla wybranych aglomeracji miejskich Polski”*
+
+***
+
+2016 | Polska | Szklarska Poręba 
+
+XIII Konferencja Naukowa **POL-EMIS** *„Powietrze Atmosferyczne Jakość – Zagrożenia-Ochrona"* 
+
+Prezentacja pt.: *„Zastosowanie systemu modelowania AERMOD w obliczeniach dyspersji zanieczyszczeń powietrza w warunkach polskich”*
+
+***
+
+2015 | Polska | Wieliczka
+
+IX Krakowskie Sympozjum Naukowo Techniczne: **KraSyNT**, 
+
+Prezentacja pt.: *„Wpływ dużych instalacji energetycznego spalania paliw na jakość powietrza w Krakowie”*
+
+***
+
+2015 | Polska | Katowice 
+
+Konferencja naukowa: *„Nauka i biznes, czyli dwa przenikające się światy”*,  
+
+Prezentacja pt.: *„Obliczenia rozprzestrzeniania się pyłu drobnego w powietrzu atmosferycznym z wykorzystaniem dyfuzyjnych modeli Gaussa”*
+
+***
+
+2014 | Polska | Kraków  
+
+Konferencja młodych naukowców "(VII edycja): *„Wpływ młodych naukowców na osiągnięcia polskiej nauki*, 
+
+Prezentacja pt. *„Zastosowanie systemu informacji przestrzennej w modelowaniu dyspersji zanieczyszczeń w powietrzu atmosferycznym”*
+
+***
+
+2014 | Polska | Karpacz 
+
+XII Konferencja Naukowa **POL-EMIS:** *„Ochrona Powietrza Atmosferycznego”* 
+
+Prezentacja pt. *„Ocena wpływu nowo budowanej spalarni odpadów komunalnych w Krakowie na jakość powietrza z wykorzystaniem modelu CALMET/CALPUFF”*
+
+***
+
+2013 | Polska | Kraków  
+
+Ogólnopolska Konferencja *„Darmowe dane i open source w badaniach środowiska”* 
+
+Prezentacja pt. *„Przygotowanie danych przestrzennych na potrzby modelowania rozprzestrzeniania się zanieczyszczeń w powietrzu z wykorzystaniem modelu CALMET/CALPUFF”*
+
+***
+
+2013 | Polska | Warszawa 
+
+XI Konferencja Naukowa *„Dla Miasta i Środowiska - Problemy unieszkodliwiania odpadów”*
+
+Prezentacja pt. *„Zakład Termicznego Przekształcania Odpadów Komunalnych w Krakowie – założenia projektowe i stan realizacji budowy”*
+
+***
 
 
 

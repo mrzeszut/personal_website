@@ -26,7 +26,7 @@ editor_options:
 <div>
 **Team member**\
 \
-Energy Transformation Observatory as an instrument to support the socio-economic development of Poland - [OTE](https://www.energetyka-rozproszona.pl/obserwatorium-transformacji-energetycznej/#Aktualno%C5%9BciOTE)
+Energy Transformation Observatory as an instrument to support the socio-economic development of Poland - [OTE](https://ote-portal.agh.edu.pl/o-projekcie/) | [REPOTE](https://repote.agh.edu.pl/aktualnosci/)
 \
 \
 Financing: National Center for Research and Development - [NCBR](https://www.gov.pl/web/ncbr-en)

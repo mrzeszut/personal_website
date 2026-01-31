@@ -9,7 +9,7 @@ editor_options:
   chunk_output_type: console
 ---
 
-<div style="text-align: justify">
+::::::::::::::::::::::::::::::::::::::: {style="text-align: justify"}
 
 ------------------------------------------------------------------------
 
@@ -17,7 +17,7 @@ editor_options:
 
 ------------------------------------------------------------------------
 
-::: {layout="[ 70, 30]"}
+::::: {layout="[ 70, 30]"}
 <div>
 
 **AGH University of Krakow** \| [AGH](https://www.agh.edu.pl/) Krakow, Poland
@@ -35,11 +35,11 @@ Supervisor: prof. Marian Mazur
 ![](image/PhDjpg.jpg){fig-align="center"}
 
 </div>
-:::
+:::::
 
 ------------------------------------------------------------------------
 
-::: {layout="[ 70, 30]"}
+::::: {layout="[ 70, 30]"}
 <div>
 
 **AGH University of Krakow** \| [AGH](https://www.agh.edu.pl/) Krakow, Poland
@@ -57,11 +57,11 @@ Supervisor: Robert Oleniacz, PhD
 ![](image/msc.png){fig-align="center"}
 
 </div>
-:::
+:::::
 
 ------------------------------------------------------------------------
 
-::: {layout="[ 70, 30]"}
+::::: {layout="[ 70, 30]"}
 <div>
 
 **AGH University of Krakow** \| [AGH](https://www.agh.edu.pl/) Krakow, Poland
@@ -79,7 +79,7 @@ Supervisor: Robert Oleniacz, PhD
 ![](image/eng.png){fig-align="center"}
 
 </div>
-:::
+:::::
 
 ------------------------------------------------------------------------
 
@@ -87,14 +87,14 @@ Supervisor: Robert Oleniacz, PhD
 
 ------------------------------------------------------------------------
 
-::: {layout="[ 70, 30 ]"}
+::::: {layout="[ 70, 30 ]"}
 <div>
 
 **AGH University of Krakow** \| [AGH](https://www.agh.edu.pl/) Krakow, Poland\
 \
 Faculty of Geo-Data Science, Geodesy and Environmental Engineering\
 \
-**Assistant Professor** \| 10/2019 - present
+**Assistant Professor** \| 10/2015 - 09/2019
 
 </div>
 
@@ -103,11 +103,11 @@ Faculty of Geo-Data Science, Geodesy and Environmental Engineering\
 ![](image/agh.jpg){fig-align="center"}
 
 </div>
-:::
+:::::
 
 ------------------------------------------------------------------------
 
-::: {layout="[ 70, 30 ]"}
+::::: {layout="[ 70, 30 ]"}
 <div>
 
 **AGH University of Krakow** \| [AGH](https://www.agh.edu.pl/) Krakow, Poland\
@@ -123,7 +123,7 @@ Faculty of Geo-Data Science, Geodesy and Environmental Engineering\
 ![](image/agh.jpg){fig-align="center"}
 
 </div>
-:::
+:::::
 
 ------------------------------------------------------------------------
 
@@ -131,7 +131,45 @@ Faculty of Geo-Data Science, Geodesy and Environmental Engineering\
 
 ------------------------------------------------------------------------
 
-::: {layout="[ 70, 35 ]"}
+::::: {layout="[ 70, 35 ]"}
+<div>
+
+**Instituto Politécnico de Tomar**, Tomar, Portugal \|\
+[Instituto Politécnico de Tomar](https://www.ipt.pt/?lng=pt)\
+\
+Research Internship \| 25 August – 7 September 2025\
+\
+Establishment of a research collaboration focused on the adaptation of machine learning algorithms to identify the impacts of wildfires on air quality at air quality monitoring station locations.
+
+</div>
+
+<div>
+
+</div>
+:::::
+
+------------------------------------------------------------------------
+
+::::: {layout="[ 70, 35 ]"}
+<div>
+
+**Department of Ecological Engineering and Forest Hydrology**, Faculty of Forestry, University of Agriculture in Kraków, Kraków, Poland \|\
+[University of Agriculture in Kraków](https://urk.edu.pl/)\
+\
+Research Internship \| September 2024\
+\
+Establishment of a research collaboration focused on the modeling and accuracy assessment of selected air quality modeling systems applied at the local scale in forested areas, as well as statistical analyses of measurement data on wet nitrogen deposition and nitrogen dioxide (NO₂) concentrations.
+
+</div>
+
+<div>
+
+</div>
+:::::
+
+------------------------------------------------------------------------
+
+::::: {layout="[ 70, 35 ]"}
 <div>
 
 **Municipal Cleaning Company in Krakow** \| [MPO](https://mpo.krakow.pl/pl/main), Krakow, Poland\
@@ -145,11 +183,11 @@ Development of assumptions for research work on secondary dust emissions from ro
 <div>
 
 </div>
-:::
+:::::
 
 ------------------------------------------------------------------------
 
-::: {layout="[ 70, 35 ]"}
+::::: {layout="[ 70, 35 ]"}
 <div>
 
 **Installations Sylwester Kocik** \| [Kocik](http://www.kocik.pl/?url=glowna) Tanow/Krakow, Poland\
@@ -164,11 +202,11 @@ Planning and implementation of sanitary installations (plumbing, heating, ventil
 <div>
 
 </div>
-:::
+:::::
 
 ------------------------------------------------------------------------
 
-::: {layout="[ 70, 35 ]"}
+::::: {layout="[ 70, 35 ]"}
 <div>
 
 **Summer school of geoinformation** \| [GEOGORCE](https://geogorce2012.blogspot.com/), Gorce, Poland\
@@ -183,11 +221,11 @@ Courses and workshops in ArcGIS, Remote Sensing, ENVI and TOPR.
 <div>
 
 </div>
-:::
+:::::
 
 ------------------------------------------------------------------------
 
-::: {layout="[ 75,  35]"}
+::::: {layout="[ 75,  35]"}
 <div>
 
 **Environmental Protection Inspectorate in Krakow** \| [WIOS](https://krakow.wios.gov.pl/), Krakow, Poland\*\
@@ -201,11 +239,11 @@ Air quality monitoring, monitoring methods, maintenance and operation of measuri
 <div>
 
 </div>
-:::
+:::::
 
 ------------------------------------------------------------------------
 
-::: {layout="[ 75,  35]"}
+::::: {layout="[ 75,  35]"}
 <div>
 
 **Emipro limited liability company** \| [EMIPRO](https://emipro.eu/), Krakow, Poland\*\
@@ -219,6 +257,7 @@ Poland Measurement of air pollution emissions, performance of measurements in in
 <div>
 
 </div>
-:::
+:::::
 
 ------------------------------------------------------------------------
+:::::::::::::::::::::::::::::::::::::::

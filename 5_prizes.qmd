@@ -14,11 +14,10 @@ editor_options:
   chunk_output_type: console
 ---
 
-<div style="text-align: justify">
-
+:::::::::::::::::::::::::::::: {style="text-align: justify"}
 ## General
 
-::: {layout="[ 60, 40]"}
+::::: {layout="[ 60, 40]"}
 <div>
 
 ### **KRAKOW CITY AWARDS 2014**
@@ -41,13 +40,11 @@ Poland, Krakow, November 6, 2014\
 ![](image/nagroda_krakow.jpg){fig-align="center" width="200"}
 
 </div>
-:::
-
-
+:::::
 
 ------------------------------------------------------------------------
 
-::: {layout="[ 60, 40]"}
+::::: {layout="[ 60, 40]"}
 <div>
 
 ### **AGH DIAMMENTS - 15th edition**
@@ -70,12 +67,11 @@ Poland, Krakow, March 31, 2014\
 ![](image/daimenty_agh.jpg){fig-align="center" width="200"}
 
 </div>
-
-:::
+:::::
 
 ------------------------------------------------------------------------
 
-::: {layout="[ 60, 40]"}
+::::: {layout="[ 60, 40]"}
 <div>
 
 ### **Sapere Auso Foundation**
@@ -98,13 +94,13 @@ Poland, Krakow, December 9, 2013\
 ![](image/sapere_auso.png){fig-align="center" width="200"}
 
 </div>
-:::
+:::::
 
 ------------------------------------------------------------------------
 
 ## AGH Rector's Award
 
-::: {layout="[ 50, 50]"}
+::::: {layout="[ 50, 50]"}
 <div>
 
 Team 3nd degree Rector's Award for educational achievements\
@@ -118,11 +114,11 @@ AGH University of Krakow \| 2022\
 ![](image/R_202208032024.jpg){fig-align="center" width="200"}
 
 </div>
-:::
+:::::
 
 ------------------------------------------------------------------------
 
-::: {layout="[ 50, 50]"}
+::::: {layout="[ 50, 50]"}
 <div>
 
 Individual 1st degree Rector's Award for scientific achievements\
@@ -136,11 +132,11 @@ AGH University of Krakow \| 2021\
 ![](image/R_202108032024.jpg){fig-align="center" width="200"}
 
 </div>
-:::
+:::::
 
 ------------------------------------------------------------------------
 
-::: {layout="[ 50, 50]"}
+::::: {layout="[ 50, 50]"}
 <div>
 
 Individual 3nd degree Rector's Award for scientific achievements\
@@ -154,11 +150,11 @@ AGH University of Krakow \| 2020\
 ![](image/R_202008032024.jpg){fig-align="center" width="200"}
 
 </div>
-:::
+:::::
 
 ------------------------------------------------------------------------
 
-::: {layout="[ 50, 50]"}
+::::: {layout="[ 50, 50]"}
 <div>
 
 Individual 3nd degree Rector's Award for scientific achievements\
@@ -172,11 +168,11 @@ AGH University of Krakow \| 2019\
 ![](image/R_2019B08032024.jpg){fig-align="center" width="200"}
 
 </div>
-:::
+:::::
 
 ------------------------------------------------------------------------
 
-::: {layout="[ 50, 50]"}
+::::: {layout="[ 50, 50]"}
 <div>
 
 Team 3nd degree Rector's Award for organizational achievements\
@@ -190,11 +186,11 @@ AGH University of Krakow \| 2019\
 ![](image/R_2019A08032024.jpg){fig-align="center" width="200"}
 
 </div>
-:::
+:::::
 
 ------------------------------------------------------------------------
 
-::: {layout="[ 50, 50]"}
+::::: {layout="[ 50, 50]"}
 <div>
 
 Team 1st degree Rector's Award for educational achievements\
@@ -208,7 +204,28 @@ AGH University of Krakow \| 2019\
 ![](image/R_201808032024.jpg){fig-align="center" width="200"}
 
 </div>
-:::
+:::::
+
+------------------------------------------------------------------------
+
+## Awards from the Excellence Initiative – Research University
+
+-   **IDUB Award (Application 11858, funded)**\
+    **Decision date:** 2025-02-06 \| **Action:** D13\
+    One-time teaching achievement bonus for: *Quality Assurance System aimed at adapting the teaching process to changing needs and diagnosing/eliminating undesirable phenomena*
+
+-   **IDUB Award – IGP (Application 8790, funded)**\
+    **Decision date:** 2024-07-30 \| **Actions:** D12, D14\
+    *Integration of teaching with research; organization of courses for top-performing students*\
+    Funded projects: Creation of the Geospatial Informatics (IGP) study program
+
+-   **IDUB Publication Bonus (Application D7, funded)**\
+    **Publication:** *Machine Learning-Based Detection of Archeological Sites Using Satellite and Meteorological Data: A Case Study of Funnel Beaker Culture Tombs in Poland*, *Remote Sensing*, 2025\
+    **Score:** 100 MNiSW \| **Top 10 journal:** Yes \| **Foreign co-authors:** Yes \| **AGH non-staff co-authors:** No
+
+-   **IDUB Publication Bonus (Application D7, funded)**\
+    **Publication:** *Comparison of Selected Ensemble Supervised Learning Algorithms Used for Meteorological Normalisation of Particulate Matter (PM10)*, *Sustainability*, 2025\
+    **Score:** 100 MNiSW \| **Top 10 journal:** Yes \| **Foreign co-authors:** No \| **AGH non-staff co-authors:** Yes
 
 ------------------------------------------------------------------------
 
@@ -228,3 +245,4 @@ Scholarship for the best environmental engineering students awarded annually\
 AGH University of Krakow \| 2008 - 2013\
 
 ------------------------------------------------------------------------
+::::::::::::::::::::::::::::::
