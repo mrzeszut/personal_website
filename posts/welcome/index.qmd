@@ -19,8 +19,7 @@ editor_options:
   chunk_output_type: console
 ---
 
-<div style="text-align: justify">
-
+::: {style="text-align: justify"}
 Welcome to my blog. I will try to publish information about the effects of my work on an ongoing basis.
 
 Best regards,
@@ -37,17 +36,7 @@ First, one of my favorite **photos**:
 
 My favorite **bike route** (A fast route, perfect for evening defrosting on the weekend):
 
-::: {.strava-embed-placeholder data-embed-type="activity" data-embed-id="9951623575" data-style="standard"}
+[link](https://www.strava.com/activities/16330734409)
+
+------------------------------------------------------------------------
 :::
-
-::: fig.align="center"
-
-```{=html}
-<script src="https://strava-embeds.com/embed.js"</script>
-```
-
-:::
-
-***
-
-
