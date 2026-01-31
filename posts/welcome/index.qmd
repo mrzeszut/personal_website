@@ -10,9 +10,9 @@ format:
     link-external-icon: true
     link-external-newwindow: true
     grid: 
-      body-width: 400px
-      sidebar-width: 100px
-      margin-width:  100px
+      body-width: 800px
+      sidebar-width: 200px
+      margin-width:  200px
     toc: true
     toc-depth: 3
 editor_options: 
